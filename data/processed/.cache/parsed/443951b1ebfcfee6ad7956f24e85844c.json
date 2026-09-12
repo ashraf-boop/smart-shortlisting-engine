@@ -1,0 +1,27 @@
+{
+  "filename": "Sample_JD.txt",
+  "extraction_method": "txt_reader",
+  "raw_text": "Job Title: Cybersecurity Analyst\nResponsibilities: Analyze security logs, manage vulnerabilities, and automate script workflows.\nRequired Skills: Python, SQL, Linux, GitHub, Pandas, HTML.",
+  "clean_text": "job title: cybersecurity analyst responsibilities: analyze security logs, manage vulnerabilities, and automate script workflows. required skills: python , sql , linux , github , pandas , html .",
+  "sections": {
+    "body": "Job Title: Cybersecurity Analyst\nResponsibilities: Analyze security logs, manage vulnerabilities, and automate script workflows.\nRequired Skills: Python, SQL, Linux, GitHub, Pandas, HTML."
+  },
+  "skills": [
+    "github",
+    "html",
+    "linux",
+    "pandas",
+    "python",
+    "sql"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github",
+      "html",
+      "linux",
+      "pandas",
+      "python",
+      "sql"
+    ]
+  }
+}

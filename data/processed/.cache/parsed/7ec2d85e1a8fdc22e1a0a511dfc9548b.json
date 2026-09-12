@@ -1,0 +1,66 @@
+{
+  "filename": "AI_Developer_Resume_2.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "RIYA NARAYAN\n\n+91 99887 77665 | riya.narayan.genai@gmail.com | linkedin.com/in/riyanarayan-genai | github.com/riyanarayan | Hyderabad, Telangana\nPROFESSIONAL SUMMARY\nGenerative AI Developer specializing in LLM applications, AI Agents, NLP and Retrieval-Augmented Generation systems. Strong experience building AI copilots, intelligent search platforms and enterprise automation solutions using state-of-the-art language models.\nEDUCATION\nBachelor of Technology — Artificial Intelligence & Data Science (2021–2025)\nVellore Institute of Technology | CGPA: 9.3/10\nRelevant Coursework: Artificial Intelligence, NLP, Deep Learning, Big Data Analytics, Cloud Computing\nTECHNICAL SKILLS\nLanguages & Libraries: Python, SQL, JavaScript\nAI/ML Frameworks: PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex\nData & Tools: Pinecone, FAISS, ChromaDB, Pandas, NumPy, Streamlit\nPlatforms: AWS, Azure, Docker, Linux, GitHub Actions\nEXPERIENCE\nGenerative AI Intern — FutureMind AI (Feb 2025 – Present)\n• Developed enterprise copilots using GPT-4, Claude and Llama.\n• Built vector-search systems handling 500,000+ embeddings.\n• Improved customer support response time by 62%.\n\nAI Research Intern — SmartData Labs (Jun 2024 – Dec 2024)\n• Built transformer-based document intelligence systems.\n• Developed summarization models processing 50,000+ documents.\nPROJECTS\nLegal Document Intelligence Platform | Llama 3, RAG, ChromaDB\n• Reduced contract review time by 80%.\n\nEnterprise Knowledge Assistant | GPT-4, LangChain\n• Achieved 94% user-rated relevance across testing.\n\nAI Voice Assistant | Whisper, Python, FastAPI\n• Delivered 95% speech recognition accuracy.\nCERTIFICATIONS\nAzure AI Engineer Associate\nGenerative AI Professional Certification\nMachine Learning Specialization — Coursera\nACHIEVEMENTS & AWARDS\nSmart India Hackathon Grand Finalist.\nTop 5% in National AI Coding Competition.\nAcademic Excellence Award (Highest GPA in Department).\nEXTRACURRICULAR ACTIVITIES\nCore Member, Generative AI Community.\nMentored 30+ students in Python and Machine Learning.\nSpeaker at university AI workshops and hackathons.",
+  "clean_text": "riya narayan +91 99887 77665 | riya.narayan.genai@gmail.com | linkedin.com/in/riyanarayan-genai | github .com/riyanarayan | hyderabad, telangana professional summary generative ai developer specializing in llm applications, ai agents, nlp and retrieval-augmented generation systems. strong experience building ai copilots, intelligent search platforms and enterprise automation solutions using state-of-the-art language models. education bachelor of technology — artificial intelligence & data science (2021–2025) vellore institute of technology | cgpa: 9.3/10 relevant coursework: artificial intelligence, nlp , deep learning , big data analytics, cloud computing technical skills languages & libraries: python , sql , javascript ai/ machine learning frameworks: pytorch , tensorflow , hugging face, langchain, llamaindex data & tools: pinecone, faiss, chromadb, pandas , numpy , streamlit platforms: aws , azure , docker , linux , github actions experience generative ai intern — futuremind ai (feb 2025 – present) • developed enterprise copilots using gpt-4, claude and llama. • built vector-search systems handling 500,000+ embeddings. • improved customer support response time by 62%. ai research intern — smartdata labs (jun 2024 – dec 2024) • built transformer-based document intelligence systems. • developed summarization models processing 50,000+ documents. projects legal document intelligence platform | llama 3, rag, chromadb • reduced contract review time by 80%. enterprise knowledge assistant | gpt-4, langchain • achieved 94% user-rated relevance across testing. ai voice assistant | whisper, python , fastapi • delivered 95% speech recognition accuracy. certifications azure ai engineer associate generative ai professional certification machine learning specialization — coursera achievements & awards smart india hackathon grand finalist. top 5% in national ai coding competition. academic excellence award (highest gpa in department). extracurricular activities core member, generative ai community. mentored 30+ students in python and machine learning . speaker at university ai workshops and hackathons.",
+  "sections": {
+    "body": "RIYA NARAYAN\n\n+91 99887 77665 | riya.narayan.genai@gmail.com | linkedin.com/in/riyanarayan-genai | github.com/riyanarayan | Hyderabad, Telangana\nPROFESSIONAL SUMMARY\nGenerative AI Developer specializing in LLM applications, AI Agents, NLP and Retrieval-Augmented Generation systems. Strong experience building AI copilots, intelligent search platforms and enterprise automation solutions using state-of-the-art language models.",
+    "education": "Bachelor of Technology — Artificial Intelligence & Data Science (2021–2025)\nVellore Institute of Technology | CGPA: 9.3/10\nRelevant Coursework: Artificial Intelligence, NLP, Deep Learning, Big Data Analytics, Cloud Computing",
+    "skills": "Languages & Libraries: Python, SQL, JavaScript\nAI/ML Frameworks: PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex\nData & Tools: Pinecone, FAISS, ChromaDB, Pandas, NumPy, Streamlit\nPlatforms: AWS, Azure, Docker, Linux, GitHub Actions",
+    "experience": "Generative AI Intern — FutureMind AI (Feb 2025 – Present)\n• Developed enterprise copilots using GPT-4, Claude and Llama.\n• Built vector-search systems handling 500,000+ embeddings.\n• Improved customer support response time by 62%.\n\nAI Research Intern — SmartData Labs (Jun 2024 – Dec 2024)\n• Built transformer-based document intelligence systems.\n• Developed summarization models processing 50,000+ documents.",
+    "projects": "Legal Document Intelligence Platform | Llama 3, RAG, ChromaDB\n• Reduced contract review time by 80%.\n\nEnterprise Knowledge Assistant | GPT-4, LangChain\n• Achieved 94% user-rated relevance across testing.\n\nAI Voice Assistant | Whisper, Python, FastAPI\n• Delivered 95% speech recognition accuracy.",
+    "certifications": "Azure AI Engineer Associate\nGenerative AI Professional Certification\nMachine Learning Specialization — Coursera\nACHIEVEMENTS & AWARDS\nSmart India Hackathon Grand Finalist.\nTop 5% in National AI Coding Competition.\nAcademic Excellence Award (Highest GPA in Department).\nEXTRACURRICULAR ACTIVITIES\nCore Member, Generative AI Community.\nMentored 30+ students in Python and Machine Learning.\nSpeaker at university AI workshops and hackathons."
+  },
+  "skills": [
+    "aws",
+    "azure",
+    "deep learning",
+    "docker",
+    "fastapi",
+    "github",
+    "javascript",
+    "linux",
+    "machine learning",
+    "nlp",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github",
+      "nlp"
+    ],
+    "education": [
+      "deep learning",
+      "nlp"
+    ],
+    "skills": [
+      "aws",
+      "azure",
+      "docker",
+      "github",
+      "javascript",
+      "linux",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "sql",
+      "tensorflow"
+    ],
+    "projects": [
+      "fastapi",
+      "python"
+    ],
+    "certifications": [
+      "azure",
+      "machine learning",
+      "python"
+    ]
+  }
+}

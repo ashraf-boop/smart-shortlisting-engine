@@ -1,0 +1,57 @@
+{
+  "filename": "Resume_15_Farhan_Sheikh.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Farhan Sheikh\nfarhan.sheikh.dev@gmail.com | +91 98xxxxxx15 | github.com/farhansheikh | Bengaluru\nSUMMARY\nFull stack web developer with a completed coding bootcamp and multiple deployed MERN applications. Active\nopen-source contributor comfortable working with REST APIs and Git workflows.\nEDUCATION\nB.C.A, Bengaluru City University (2023-2026), CGPA: 8.4/10\nFull Stack Web Development Bootcamp, Masai School (2026)\nSKILLS\nJavaScript, React.js, Redux Toolkit, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, Git/GitHub, Docker\n(basic), Tailwind CSS, Jest\nPROJECTS\nTaskFlow - Team Task Management App\n•\nFull stack MERN app with drag-and-drop task boards, real-time updates via Socket.io\n•\nDeployed on Render and Netlify; 40+ GitHub stars from bootcamp community\nOpen Source Contribution - DevConnect\n•\nContributed 5 merged pull requests fixing bugs and adding features to a React/Node open-source project\nCERTIFICATIONS\nFull Stack Web Development Certificate (Masai School)",
+  "clean_text": "farhan sheikh farhan.sheikh.dev@gmail.com | +91 98xxxxxx15 | github .com/farhansheikh | bengaluru summary full stack web developer with a completed coding bootcamp and multiple deployed mern applications. active open-source contributor comfortable working with rest api and git workflows. education b.c.a, bengaluru city university (2023-2026), cgpa: 8.4/10 full stack web development bootcamp, masai school (2026) skills javascript , react . javascript , redux toolkit, node.js , express . javascript , mongodb , postgresql , rest api , git / github , docker (basic), tailwind css , jest projects taskflow - team task management app • full stack mern app with drag-and-drop task boards, real-time updates via socket.io • deployed on render and netlify; 40+ github stars from bootcamp community open source contribution - devconnect • contributed 5 merged pull requests fixing bugs and adding features to a react /node open-source project certifications full stack web development certificate (masai school)",
+  "sections": {
+    "body": "Farhan Sheikh\nfarhan.sheikh.dev@gmail.com | +91 98xxxxxx15 | github.com/farhansheikh | Bengaluru",
+    "summary": "Full stack web developer with a completed coding bootcamp and multiple deployed MERN applications. Active\nopen-source contributor comfortable working with REST APIs and Git workflows.",
+    "education": "B.C.A, Bengaluru City University (2023-2026), CGPA: 8.4/10\nFull Stack Web Development Bootcamp, Masai School (2026)",
+    "skills": "JavaScript, React.js, Redux Toolkit, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, Git/GitHub, Docker\n(basic), Tailwind CSS, Jest",
+    "projects": "TaskFlow - Team Task Management App\n•\nFull stack MERN app with drag-and-drop task boards, real-time updates via Socket.io\n•\nDeployed on Render and Netlify; 40+ GitHub stars from bootcamp community\nOpen Source Contribution - DevConnect\n•\nContributed 5 merged pull requests fixing bugs and adding features to a React/Node open-source project",
+    "certifications": "Full Stack Web Development Certificate (Masai School)"
+  },
+  "skills": [
+    "css",
+    "docker",
+    "express",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "postgresql",
+    "react",
+    "redux",
+    "rest api",
+    "tailwind"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "git",
+      "rest api"
+    ],
+    "skills": [
+      "css",
+      "docker",
+      "express",
+      "git",
+      "github",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "postgresql",
+      "react",
+      "redux",
+      "rest api",
+      "tailwind"
+    ],
+    "projects": [
+      "github",
+      "react"
+    ]
+  }
+}

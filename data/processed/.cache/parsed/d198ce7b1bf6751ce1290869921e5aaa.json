@@ -1,0 +1,50 @@
+{
+  "filename": "Resume_04_Sneha_Reddy.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Sneha Reddy\nsneha.reddy.dev@gmail.com | +91 98xxxxxx04 | github.com/snehareddy | Hyderabad\nSUMMARY\nFrontend developer passionate about building clean, accessible user interfaces with React. Limited backend\nexperience; has mostly consumed third-party or mock APIs in projects.\nEDUCATION\nB.Tech Computer Science, VIT Vellore (2023-2027), CGPA: 8.5/10\nSKILLS\nReact.js, JavaScript, HTML5, CSS3, Tailwind CSS, Figma, Git, basic REST API consumption (Axios, fetch)\nPROJECTS\nPortfolio Builder for Students\n•\nBuilt a React app that generates shareable portfolio pages from a form-based input\n•\nUsed Firebase for basic auth and Firestore for data storage (no custom backend)\nWeather Dashboard\n•\nReact app consuming a public weather REST API, styled with Tailwind CSS\nCERTIFICATIONS\nReact - The Complete Guide (Udemy)",
+  "clean_text": "sneha reddy sneha.reddy.dev@gmail.com | +91 98xxxxxx04 | github .com/snehareddy | hyderabad summary frontend developer passionate about building clean, accessible user interfaces with react . limited backend experience; has mostly consumed third-party or mock apis in projects. education b.tech computer science, vit vellore (2023-2027), cgpa: 8.5/10 skills react . javascript , javascript , html5, css3, tailwind css , figma, git , basic rest api consumption (axios, fetch) projects portfolio builder for students • built a react app that generates shareable portfolio pages from a form-based input • used firebase for basic auth and firestore for data storage (no custom backend) weather dashboard • react app consuming a public weather rest api , styled with tailwind css certifications react - the complete guide (udemy)",
+  "sections": {
+    "body": "Sneha Reddy\nsneha.reddy.dev@gmail.com | +91 98xxxxxx04 | github.com/snehareddy | Hyderabad",
+    "summary": "Frontend developer passionate about building clean, accessible user interfaces with React. Limited backend\nexperience; has mostly consumed third-party or mock APIs in projects.",
+    "education": "B.Tech Computer Science, VIT Vellore (2023-2027), CGPA: 8.5/10",
+    "skills": "React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Figma, Git, basic REST API consumption (Axios, fetch)",
+    "projects": "Portfolio Builder for Students\n•\nBuilt a React app that generates shareable portfolio pages from a form-based input\n•\nUsed Firebase for basic auth and Firestore for data storage (no custom backend)\nWeather Dashboard\n•\nReact app consuming a public weather REST API, styled with Tailwind CSS",
+    "certifications": "React - The Complete Guide (Udemy)"
+  },
+  "skills": [
+    "css",
+    "firebase",
+    "git",
+    "github",
+    "javascript",
+    "react",
+    "rest api",
+    "tailwind"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "react"
+    ],
+    "skills": [
+      "css",
+      "git",
+      "javascript",
+      "react",
+      "rest api",
+      "tailwind"
+    ],
+    "projects": [
+      "css",
+      "firebase",
+      "react",
+      "rest api",
+      "tailwind"
+    ],
+    "certifications": [
+      "react"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "Resume_10_Ishita_Gupta.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Ishita Gupta\nishita.gupta.biz@gmail.com | +91 98xxxxxx10 | Bengaluru\nSUMMARY\nBusiness Administration student with a strong interest in digital marketing and data-driven decision making. Limited\ntechnical/programming background.\nEDUCATION\nBBA, Christ University, Bengaluru (2023-2027), CGPA: 8.6/10\nSKILLS\nMS Excel (advanced), Google Analytics, Canva, basic SQL, PowerPoint, social media marketing tools\nEXPERIENCE\nMarketing Intern, LocalBazaar E-commerce (May-Jul 2026)\n•\nBuilt Excel dashboards to track campaign performance across channels\n•\nAssisted in running social media ad campaigns and analyzing basic conversion metrics\nPROJECTS\nCollege Fest Sponsorship Drive\n•\nLed outreach that secured sponsorships from 8 local businesses for the annual college fest\nCERTIFICATIONS\nGoogle Digital Marketing & E-commerce (Coursera)",
+  "clean_text": "ishita gupta ishita.gupta.biz@gmail.com | +91 98xxxxxx10 | bengaluru summary business administration student with a strong interest in digital marketing and data-driven decision making. limited technical/programming background. education bba, christ university, bengaluru (2023-2027), cgpa: 8.6/10 skills ms excel (advanced), google analytics, canva, basic sql , powerpoint, social media marketing tools experience marketing intern, localbazaar e-commerce (may-jul 2026) • built excel dashboards to track campaign performance across channels • assisted in running social media ad campaigns and analyzing basic conversion metrics projects college fest sponsorship drive • led outreach that secured sponsorships from 8 local businesses for the annual college fest certifications google digital marketing & e-commerce (coursera)",
+  "sections": {
+    "body": "Ishita Gupta\nishita.gupta.biz@gmail.com | +91 98xxxxxx10 | Bengaluru",
+    "summary": "Business Administration student with a strong interest in digital marketing and data-driven decision making. Limited\ntechnical/programming background.",
+    "education": "BBA, Christ University, Bengaluru (2023-2027), CGPA: 8.6/10",
+    "skills": "MS Excel (advanced), Google Analytics, Canva, basic SQL, PowerPoint, social media marketing tools",
+    "experience": "Marketing Intern, LocalBazaar E-commerce (May-Jul 2026)\n•\nBuilt Excel dashboards to track campaign performance across channels\n•\nAssisted in running social media ad campaigns and analyzing basic conversion metrics",
+    "projects": "College Fest Sponsorship Drive\n•\nLed outreach that secured sponsorships from 8 local businesses for the annual college fest",
+    "certifications": "Google Digital Marketing & E-commerce (Coursera)"
+  },
+  "skills": [
+    "sql"
+  ],
+  "skills_by_section": {
+    "skills": [
+      "sql"
+    ]
+  }
+}

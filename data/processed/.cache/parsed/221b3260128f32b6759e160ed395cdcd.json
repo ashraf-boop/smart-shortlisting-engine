@@ -1,0 +1,51 @@
+{
+  "filename": "ai_dev__ananya_subramanian.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Ananya Subramanian\nAI/ML Developer\nChennai, India | +91 91234 56780 | ananya.subramanian@outlook.com | linkedin.com/in/ananya-subramanian\nPROFESSIONAL SUMMARY\nDetail-oriented AI Developer focused on computer vision and conversational AI systems, with a strong\nfoundation in applied mathematics.\nSKILLS\n•\nPython, NumPy, OpenCV\n•\nConvolutional Neural Networks (CNNs)\n•\nTensorFlow, Keras\n•\nSpeech-to-text & NLP pipelines\n•\nModel optimization (ONNX, quantization)\n•\nGit, CI/CD for ML (GitHub Actions)\n•\nCloud ML (Azure ML, GCP Vertex AI)\nWORK EXPERIENCE\nAI Engineer — VisionEdge Labs\nJan 2022 - Present\n•\nDesigned a defect-detection CV model for manufacturing line cameras, reducing false negatives by 22%\n•\nOptimized inference latency from 400ms to 90ms using model quantization and ONNX runtime\n•\nBuilt a voice-assistant module integrating Whisper STT with a custom NLU layer\nData Science Intern — Quantica Insights\nMay 2021 - Dec 2021\n•\nBuilt dashboards summarizing model performance metrics for stakeholders\n•\nCleaned and labeled image datasets of 50K+ samples for training pipelines\nPROJECTS\nSmart Attendance System\nFace-recognition based attendance system using OpenCV and a custom-trained CNN, deployed on Raspberry Pi\nChat Assistant for Healthcare FAQs\nBuilt an intent-classification chatbot using spaCy and Rasa for a clinic's patient queries\nEDUCATION\nB.E, Information Technology — Anna University\n2018 - 2022\nCERTIFICATIONS\n•\nCoursera - Deep Learning Specialization (Andrew Ng)\n•\nNPTEL - Computer Vision",
+  "clean_text": "ananya subramanian ai/ machine learning developer chennai, india | +91 91234 56780 | ananya.subramanian@outlook.com | linkedin.com/in/ananya-subramanian professional summary detail-oriented ai developer focused on computer vision and conversational ai systems, with a strong foundation in applied mathematics. skills • python , numpy , opencv • convolutional neural networks (cnns) • tensorflow , keras • speech-to-text & nlp pipelines • model optimization (onnx, quantization) • git , ci/cd for machine learning ( github actions) • cloud machine learning ( azure machine learning , gcp vertex ai) work experience ai engineer — visionedge labs jan 2022 - present • designed a defect-detection cv model for manufacturing line cameras, reducing false negatives by 22% • optimized inference latency from 400ms to 90ms using model quantization and onnx runtime • built a voice-assistant module integrating whisper stt with a custom nlu layer data science intern — quantica insights may 2021 - dec 2021 • built dashboards summarizing model performance metrics for stakeholders • cleaned and labeled image datasets of 50k+ samples for training pipelines projects smart attendance system face-recognition based attendance system using opencv and a custom-trained cnn, deployed on raspberry pi chat assistant for healthcare faqs built an intent-classification chatbot using spacy and rasa for a clinic's patient queries education b.e, information technology — anna university 2018 - 2022 certifications • coursera - deep learning specialization (andrew ng) • nptel - computer vision",
+  "sections": {
+    "body": "Ananya Subramanian\nAI/ML Developer\nChennai, India | +91 91234 56780 | ananya.subramanian@outlook.com | linkedin.com/in/ananya-subramanian\nPROFESSIONAL SUMMARY\nDetail-oriented AI Developer focused on computer vision and conversational AI systems, with a strong\nfoundation in applied mathematics.",
+    "skills": "•\nPython, NumPy, OpenCV\n•\nConvolutional Neural Networks (CNNs)\n•\nTensorFlow, Keras\n•\nSpeech-to-text & NLP pipelines\n•\nModel optimization (ONNX, quantization)\n•\nGit, CI/CD for ML (GitHub Actions)\n•\nCloud ML (Azure ML, GCP Vertex AI)",
+    "experience": "AI Engineer — VisionEdge Labs\nJan 2022 - Present\n•\nDesigned a defect-detection CV model for manufacturing line cameras, reducing false negatives by 22%\n•\nOptimized inference latency from 400ms to 90ms using model quantization and ONNX runtime\n•\nBuilt a voice-assistant module integrating Whisper STT with a custom NLU layer\nData Science Intern — Quantica Insights\nMay 2021 - Dec 2021\n•\nBuilt dashboards summarizing model performance metrics for stakeholders\n•\nCleaned and labeled image datasets of 50K+ samples for training pipelines",
+    "projects": "Smart Attendance System\nFace-recognition based attendance system using OpenCV and a custom-trained CNN, deployed on Raspberry Pi\nChat Assistant for Healthcare FAQs\nBuilt an intent-classification chatbot using spaCy and Rasa for a clinic's patient queries",
+    "education": "B.E, Information Technology — Anna University\n2018 - 2022",
+    "certifications": "•\nCoursera - Deep Learning Specialization (Andrew Ng)\n•\nNPTEL - Computer Vision"
+  },
+  "skills": [
+    "azure",
+    "ci/cd",
+    "deep learning",
+    "gcp",
+    "git",
+    "github",
+    "machine learning",
+    "nlp",
+    "numpy",
+    "python",
+    "spacy",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "machine learning"
+    ],
+    "skills": [
+      "azure",
+      "ci/cd",
+      "gcp",
+      "git",
+      "github",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "python",
+      "tensorflow"
+    ],
+    "projects": [
+      "spacy"
+    ],
+    "certifications": [
+      "deep learning"
+    ]
+  }
+}

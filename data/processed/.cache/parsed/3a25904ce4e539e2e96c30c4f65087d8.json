@@ -1,0 +1,46 @@
+{
+  "filename": "Resume_09_Arjun_Kumar.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Arjun Kumar\narjun.kumar.android@gmail.com | +91 98xxxxxx09 | github.com/arjunkumar | Bengaluru\nSUMMARY\nAndroid developer with experience building mobile apps in Kotlin. Has integrated REST APIs into mobile apps but\nhas not built web frontends or Node.js backends.\nEDUCATION\nB.E. Computer Science, MS Ramaiah Institute of Technology (2023-2027), CGPA: 8.3/10\nSKILLS\nKotlin, Java, Android SDK, REST API integration (Retrofit), Firebase, SQLite, Git, basic Python\nPROJECTS\nCampus Food Ordering App (Android)\n•\nBuilt a native Android app in Kotlin, integrated with a Firebase backend\n•\nUsed Retrofit to consume REST APIs for menu and order data\nHabit Tracker App\n•\nAndroid app with local SQLite storage and Firebase authentication\nCERTIFICATIONS\nAndroid Developer Nanodegree (partial, Udacity)",
+  "clean_text": "arjun kumar arjun.kumar.android@gmail.com | +91 98xxxxxx09 | github .com/arjunkumar | bengaluru summary android developer with experience building mobile apps in kotlin. has integrated rest api into mobile apps but has not built web frontends or node.js backends. education b.e. computer science, ms ramaiah institute of technology (2023-2027), cgpa: 8.3/10 skills kotlin, java , android sdk, rest api integration (retrofit), firebase , sqlite , git , basic python projects campus food ordering app (android) • built a native android app in kotlin, integrated with a firebase backend • used retrofit to consume rest api for menu and order data habit tracker app • android app with local sqlite storage and firebase authentication certifications android developer nanodegree (partial, udacity)",
+  "sections": {
+    "body": "Arjun Kumar\narjun.kumar.android@gmail.com | +91 98xxxxxx09 | github.com/arjunkumar | Bengaluru",
+    "summary": "Android developer with experience building mobile apps in Kotlin. Has integrated REST APIs into mobile apps but\nhas not built web frontends or Node.js backends.",
+    "education": "B.E. Computer Science, MS Ramaiah Institute of Technology (2023-2027), CGPA: 8.3/10",
+    "skills": "Kotlin, Java, Android SDK, REST API integration (Retrofit), Firebase, SQLite, Git, basic Python",
+    "projects": "Campus Food Ordering App (Android)\n•\nBuilt a native Android app in Kotlin, integrated with a Firebase backend\n•\nUsed Retrofit to consume REST APIs for menu and order data\nHabit Tracker App\n•\nAndroid app with local SQLite storage and Firebase authentication",
+    "certifications": "Android Developer Nanodegree (partial, Udacity)"
+  },
+  "skills": [
+    "firebase",
+    "git",
+    "github",
+    "java",
+    "node.js",
+    "python",
+    "rest api",
+    "sqlite"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "node.js",
+      "rest api"
+    ],
+    "skills": [
+      "firebase",
+      "git",
+      "java",
+      "python",
+      "rest api",
+      "sqlite"
+    ],
+    "projects": [
+      "firebase",
+      "rest api",
+      "sqlite"
+    ]
+  }
+}

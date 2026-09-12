@@ -1,0 +1,70 @@
+{
+  "filename": "Resume_08_Priya_Menon.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Priya Menon\npriya.menon.dev@gmail.com | +91 98xxxxxx08 | github.com/priyamenon | Kochi\nSUMMARY\nFull stack developer proficient in the MERN stack with two internships and multiple deployed projects. Comfortable\nwith agile workflows, testing, and cloud basics.\nEDUCATION\nB.Tech Computer Science, National Institute of Technology Karnataka (2023-2027), CGPA: 9.1/10\nSKILLS\nJavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, Git, Docker, AWS\n(EC2, S3, basic Lambda), Jest, Agile/Scrum\nEXPERIENCE\nFull Stack Intern, BrightPath Technologies (Dec 2025-Feb 2026)\n•\nBuilt and shipped 3 features on a production Node.js/Express + React application\n•\nWrote unit and integration tests using Jest, maintaining >80% coverage on new code\n•\nParticipated in 2-week sprints, daily standups, and sprint retrospectives\nSoftware Intern, CodeCrafters Startup (Jun-Jul 2025)\n•\nMigrated part of a legacy jQuery frontend to React components\nPROJECTS\nSkillBridge - Peer Mentorship Platform\n•\nFull stack MERN app with React frontend, Node/Express backend, MongoDB database\n•\nContainerized with Docker; deployed on AWS EC2 with an S3 bucket for file uploads\nCERTIFICATIONS\nAWS Cloud Practitioner Essentials, Agile Development Specialization (Coursera)",
+  "clean_text": "priya menon priya.menon.dev@gmail.com | +91 98xxxxxx08 | github .com/priyamenon | kochi summary full stack developer proficient in the mern stack with two internships and multiple deployed projects. comfortable with agile workflows, testing, and cloud basics. education b.tech computer science, national institute of technology karnataka (2023-2027), cgpa: 9.1/10 skills javascript , typescript , react . javascript , node.js , express . javascript , mongodb , postgresql , rest api , git , docker , aws (ec2, s3, basic lambda), jest, agile / scrum experience full stack intern, brightpath technologies (dec 2025-feb 2026) • built and shipped 3 features on a production node.js / express + react application • wrote unit and integration tests using jest, maintaining >80% coverage on new code • participated in 2-week sprints, daily standups, and sprint retrospectives software intern, codecrafters startup (jun-jul 2025) • migrated part of a legacy jquery frontend to react components projects skillbridge - peer mentorship platform • full stack mern app with react frontend, node/ express backend, mongodb database • containerized with docker ; deployed on aws ec2 with an s3 bucket for file uploads certifications aws cloud practitioner essentials, agile development specialization (coursera)",
+  "sections": {
+    "body": "Priya Menon\npriya.menon.dev@gmail.com | +91 98xxxxxx08 | github.com/priyamenon | Kochi",
+    "summary": "Full stack developer proficient in the MERN stack with two internships and multiple deployed projects. Comfortable\nwith agile workflows, testing, and cloud basics.",
+    "education": "B.Tech Computer Science, National Institute of Technology Karnataka (2023-2027), CGPA: 9.1/10",
+    "skills": "JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, Git, Docker, AWS\n(EC2, S3, basic Lambda), Jest, Agile/Scrum",
+    "experience": "Full Stack Intern, BrightPath Technologies (Dec 2025-Feb 2026)\n•\nBuilt and shipped 3 features on a production Node.js/Express + React application\n•\nWrote unit and integration tests using Jest, maintaining >80% coverage on new code\n•\nParticipated in 2-week sprints, daily standups, and sprint retrospectives\nSoftware Intern, CodeCrafters Startup (Jun-Jul 2025)\n•\nMigrated part of a legacy jQuery frontend to React components",
+    "projects": "SkillBridge - Peer Mentorship Platform\n•\nFull stack MERN app with React frontend, Node/Express backend, MongoDB database\n•\nContainerized with Docker; deployed on AWS EC2 with an S3 bucket for file uploads",
+    "certifications": "AWS Cloud Practitioner Essentials, Agile Development Specialization (Coursera)"
+  },
+  "skills": [
+    "agile",
+    "aws",
+    "docker",
+    "express",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "postgresql",
+    "react",
+    "rest api",
+    "scrum",
+    "typescript"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "agile"
+    ],
+    "skills": [
+      "agile",
+      "aws",
+      "docker",
+      "express",
+      "git",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "postgresql",
+      "react",
+      "rest api",
+      "scrum",
+      "typescript"
+    ],
+    "experience": [
+      "express",
+      "node.js",
+      "react"
+    ],
+    "projects": [
+      "aws",
+      "docker",
+      "express",
+      "mongodb",
+      "react"
+    ],
+    "certifications": [
+      "agile",
+      "aws"
+    ]
+  }
+}

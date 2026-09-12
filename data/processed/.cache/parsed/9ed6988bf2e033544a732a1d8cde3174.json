@@ -1,0 +1,63 @@
+{
+  "filename": "Resume_01_Aditi_Sharma.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Aditi Sharma\naditi.sharma.cs@gmail.com | +91 98xxxxxx01 | github.com/aditisharma | Bengaluru\nSUMMARY\nFinal-year Computer Science student with hands-on experience building full stack web applications using the\nMERN stack. Completed a 3-month internship building customer-facing features end to end.\nEDUCATION\nB.E. Computer Science, RV College of Engineering, Bengaluru (2023-2027), CGPA: 8.7/10\nSKILLS\nJavaScript (ES6+), React.js, Redux, Node.js, Express.js, MongoDB, REST APIs, Git/GitHub, HTML5/CSS3,\nTailwind CSS, basic AWS (EC2, S3), Jest\nEXPERIENCE\nSoftware Development Intern, Zenith Web Labs (Jun-Aug 2026)\n•\nBuilt 4 new React components for the customer dashboard, integrated with existing REST APIs\n•\nDeveloped Node.js/Express backend endpoints for a notifications module, tested with Jest\n•\nWorked in a 2-week sprint cycle using Jira and participated in daily standups\nPROJECTS\nCampus Marketplace (MERN Stack)\n•\nBuilt a full stack peer-to-peer marketplace app with React frontend and Node/Express/MongoDB backend\n•\nImplemented JWT-based authentication and role-based access control\n•\nDeployed on Render (backend) and Vercel (frontend); used GitHub Actions for CI\nReal-time Chat App\n•\nBuilt a chat application using Socket.io, React, and Express with MongoDB for message persistence\nCERTIFICATIONS\nMeta Front-End Developer (Coursera), MongoDB Basics (MongoDB University)",
+  "clean_text": "aditi sharma aditi.sharma.cs@gmail.com | +91 98xxxxxx01 | github .com/aditisharma | bengaluru summary final-year computer science student with hands-on experience building full stack web applications using the mern stack. completed a 3-month internship building customer-facing features end to end. education b.e. computer science, rv college of engineering, bengaluru (2023-2027), cgpa: 8.7/10 skills javascript (es6+), react . javascript , redux , node.js , express . javascript , mongodb , rest api , git / github , html5/css3, tailwind css , basic aws (ec2, s3), jest experience software development intern, zenith web labs (jun-aug 2026) • built 4 new react components for the customer dashboard, integrated with existing rest api • developed node.js / express backend endpoints for a notifications module, tested with jest • worked in a 2-week sprint cycle using jira and participated in daily standups projects campus marketplace (mern stack) • built a full stack peer-to-peer marketplace app with react frontend and node/ express / mongodb backend • implemented jwt-based authentication and role-based access control • deployed on render (backend) and vercel (frontend); used github actions for ci real-time chat app • built a chat application using socket.io, react , and express with mongodb for message persistence certifications meta front-end developer (coursera), mongodb basics ( mongodb university)",
+  "sections": {
+    "body": "Aditi Sharma\naditi.sharma.cs@gmail.com | +91 98xxxxxx01 | github.com/aditisharma | Bengaluru",
+    "summary": "Final-year Computer Science student with hands-on experience building full stack web applications using the\nMERN stack. Completed a 3-month internship building customer-facing features end to end.",
+    "education": "B.E. Computer Science, RV College of Engineering, Bengaluru (2023-2027), CGPA: 8.7/10",
+    "skills": "JavaScript (ES6+), React.js, Redux, Node.js, Express.js, MongoDB, REST APIs, Git/GitHub, HTML5/CSS3,\nTailwind CSS, basic AWS (EC2, S3), Jest",
+    "experience": "Software Development Intern, Zenith Web Labs (Jun-Aug 2026)\n•\nBuilt 4 new React components for the customer dashboard, integrated with existing REST APIs\n•\nDeveloped Node.js/Express backend endpoints for a notifications module, tested with Jest\n•\nWorked in a 2-week sprint cycle using Jira and participated in daily standups",
+    "projects": "Campus Marketplace (MERN Stack)\n•\nBuilt a full stack peer-to-peer marketplace app with React frontend and Node/Express/MongoDB backend\n•\nImplemented JWT-based authentication and role-based access control\n•\nDeployed on Render (backend) and Vercel (frontend); used GitHub Actions for CI\nReal-time Chat App\n•\nBuilt a chat application using Socket.io, React, and Express with MongoDB for message persistence",
+    "certifications": "Meta Front-End Developer (Coursera), MongoDB Basics (MongoDB University)"
+  },
+  "skills": [
+    "aws",
+    "css",
+    "express",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "react",
+    "redux",
+    "rest api",
+    "tailwind"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "skills": [
+      "aws",
+      "css",
+      "express",
+      "git",
+      "github",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "react",
+      "redux",
+      "rest api",
+      "tailwind"
+    ],
+    "experience": [
+      "express",
+      "node.js",
+      "react",
+      "rest api"
+    ],
+    "projects": [
+      "express",
+      "github",
+      "mongodb",
+      "react"
+    ],
+    "certifications": [
+      "mongodb"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "filename": "Resume_16_Meera_Pillai.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Meera Pillai\nmeera.pillai.dev@gmail.com | +91 98xxxxxx16 | github.com/meerapillai | Thiruvananthapuram\nSUMMARY\nBackend developer specializing in Node.js and Express with strong database design skills. Has not worked with\nReact, Angular, or Vue on the frontend.\nEDUCATION\nB.Tech Computer Science, College of Engineering Trivandrum (2023-2027), CGPA: 8.3/10\nSKILLS\nNode.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL (basic), Git, Postman, basic HTML/CSS\nPROJECTS\nMulti-tenant SaaS Backend\n•\nDesigned a Node.js/Express REST API with PostgreSQL supporting multiple client organizations\n•\nImplemented JWT-based authentication and role-based authorization middleware\nNotes API with GraphQL\n•\nBuilt a GraphQL API on top of Express and MongoDB for a notes-taking service\nCERTIFICATIONS\nNode.js API Masterclass (Udemy)",
+  "clean_text": "meera pillai meera.pillai.dev@gmail.com | +91 98xxxxxx16 | github .com/meerapillai | thiruvananthapuram summary backend developer specializing in node.js and express with strong database design skills. has not worked with react , angular , or vue on the frontend. education b.tech computer science, college of engineering trivandrum (2023-2027), cgpa: 8.3/10 skills node.js , express . javascript , mongodb , postgresql , rest api , graphql (basic), git , postman, basic html / css projects multi-tenant saas backend • designed a node.js / express rest api with postgresql supporting multiple client organizations • implemented jwt-based authentication and role-based authorization middleware notes api with graphql • built a graphql api on top of express and mongodb for a notes-taking service certifications node.js api masterclass (udemy)",
+  "sections": {
+    "body": "Meera Pillai\nmeera.pillai.dev@gmail.com | +91 98xxxxxx16 | github.com/meerapillai | Thiruvananthapuram",
+    "summary": "Backend developer specializing in Node.js and Express with strong database design skills. Has not worked with\nReact, Angular, or Vue on the frontend.",
+    "education": "B.Tech Computer Science, College of Engineering Trivandrum (2023-2027), CGPA: 8.3/10",
+    "skills": "Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL (basic), Git, Postman, basic HTML/CSS",
+    "projects": "Multi-tenant SaaS Backend\n•\nDesigned a Node.js/Express REST API with PostgreSQL supporting multiple client organizations\n•\nImplemented JWT-based authentication and role-based authorization middleware\nNotes API with GraphQL\n•\nBuilt a GraphQL API on top of Express and MongoDB for a notes-taking service",
+    "certifications": "Node.js API Masterclass (Udemy)"
+  },
+  "skills": [
+    "angular",
+    "css",
+    "express",
+    "git",
+    "github",
+    "graphql",
+    "html",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "postgresql",
+    "react",
+    "rest api",
+    "vue"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "angular",
+      "express",
+      "node.js",
+      "react",
+      "vue"
+    ],
+    "skills": [
+      "css",
+      "express",
+      "git",
+      "graphql",
+      "html",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "postgresql",
+      "rest api"
+    ],
+    "projects": [
+      "express",
+      "graphql",
+      "mongodb",
+      "node.js",
+      "postgresql",
+      "rest api"
+    ],
+    "certifications": [
+      "node.js"
+    ]
+  }
+}

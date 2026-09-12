@@ -1,0 +1,51 @@
+{
+  "filename": "Resume_18_Pooja_Shetty.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Pooja Shetty\npooja.shetty.dev@gmail.com | +91 98xxxxxx18 | github.com/poojashetty | Udupi\nSUMMARY\nWeb developer experienced with PHP/Laravel and jQuery-based frontends. Comfortable with REST APIs and\nrelational databases but has not used React, Node.js, or MongoDB.\nEDUCATION\nB.E. Computer Science, Manipal Institute of Technology (2023-2027), CGPA: 8.2/10\nSKILLS\nPHP, Laravel, MySQL, jQuery, HTML5, CSS3, Bootstrap, REST APIs, Git, basic JavaScript\nEXPERIENCE\nWeb Developer Intern, LocalCraft Studio (Dec 2025-Jan 2026)\n•\nBuilt and maintained Laravel-based admin dashboards for a small e-commerce client\n•\nIntegrated payment gateway REST APIs and built jQuery-based dynamic forms\nPROJECTS\nCollege Club Management Portal\n•\nLaravel + MySQL application for managing club memberships and event registrations\n•\njQuery/Bootstrap frontend with AJAX-based form submissions\nCERTIFICATIONS\nPHP with Laravel Framework (Udemy)",
+  "clean_text": "pooja shetty pooja.shetty.dev@gmail.com | +91 98xxxxxx18 | github .com/poojashetty | udupi summary web developer experienced with php/laravel and jquery-based frontends. comfortable with rest api and relational databases but has not used react , node.js , or mongodb . education b.e. computer science, manipal institute of technology (2023-2027), cgpa: 8.2/10 skills php, laravel, mysql , jquery, html5, css3, bootstrap , rest api , git , basic javascript experience web developer intern, localcraft studio (dec 2025-jan 2026) • built and maintained laravel-based admin dashboards for a small e-commerce client • integrated payment gateway rest api and built jquery-based dynamic forms projects college club management portal • laravel + mysql application for managing club memberships and event registrations • jquery/ bootstrap frontend with ajax-based form submissions certifications php with laravel framework (udemy)",
+  "sections": {
+    "body": "Pooja Shetty\npooja.shetty.dev@gmail.com | +91 98xxxxxx18 | github.com/poojashetty | Udupi",
+    "summary": "Web developer experienced with PHP/Laravel and jQuery-based frontends. Comfortable with REST APIs and\nrelational databases but has not used React, Node.js, or MongoDB.",
+    "education": "B.E. Computer Science, Manipal Institute of Technology (2023-2027), CGPA: 8.2/10",
+    "skills": "PHP, Laravel, MySQL, jQuery, HTML5, CSS3, Bootstrap, REST APIs, Git, basic JavaScript",
+    "experience": "Web Developer Intern, LocalCraft Studio (Dec 2025-Jan 2026)\n•\nBuilt and maintained Laravel-based admin dashboards for a small e-commerce client\n•\nIntegrated payment gateway REST APIs and built jQuery-based dynamic forms",
+    "projects": "College Club Management Portal\n•\nLaravel + MySQL application for managing club memberships and event registrations\n•\njQuery/Bootstrap frontend with AJAX-based form submissions",
+    "certifications": "PHP with Laravel Framework (Udemy)"
+  },
+  "skills": [
+    "bootstrap",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "react",
+    "rest api"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "mongodb",
+      "node.js",
+      "react",
+      "rest api"
+    ],
+    "skills": [
+      "bootstrap",
+      "git",
+      "javascript",
+      "mysql",
+      "rest api"
+    ],
+    "experience": [
+      "rest api"
+    ],
+    "projects": [
+      "bootstrap",
+      "mysql"
+    ]
+  }
+}

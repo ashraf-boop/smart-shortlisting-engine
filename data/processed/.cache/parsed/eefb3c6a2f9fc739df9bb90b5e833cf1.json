@@ -1,0 +1,49 @@
+{
+  "filename": "App_Developer_Resume_1.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "ROHAN NAIK\n\n+91 98765 55667 | rohan.naik.appdev@gmail.com | linkedin.com/in/rohannaik-appdev | github.com/rohannaik | Bengaluru, Karnataka\nPROFESSIONAL SUMMARY\nMobile Application Developer with expertise in Android, iOS, Flutter, and cross-platform application development. Experienced in designing scalable, user-friendly mobile applications with strong focus on performance, UI/UX, and backend integration.\nEDUCATION\nBachelor of Technology — Computer Science & Engineering (2021–2025)\nPES University, Bengaluru\nCGPA: 9.3/10\nRelevant Coursework: Mobile Computing, Software Engineering, Database Systems, Human Computer Interaction\nTECHNICAL SKILLS\nLanguages: Dart, Kotlin, Java, Swift, JavaScript\nFrameworks: Flutter, React Native, Android SDK\nBackend: Firebase, Node.js, REST APIs\nDatabases: SQLite, Firebase Firestore, MongoDB\nTools: Git, Android Studio, Xcode, Docker\nEXPERIENCE\nMobile App Developer Intern — AppNova Technologies (Jan 2025 – Present)\n• Developed and maintained cross-platform mobile applications with 50,000+ downloads.\n• Improved app performance by 40% through code optimization.\n• Integrated payment gateways and push notification services.\n\nAndroid Developer Intern — TechSphere Solutions (May 2024 – Aug 2024)\n• Built Android applications with modern UI principles.\n• Implemented secure authentication and cloud synchronization.\nPROJECTS\nFood Delivery App | Flutter, Firebase\n• Developed end-to-end food ordering application with real-time order tracking.\n\nFitness Tracker App | Kotlin, Firebase\n• Built health monitoring app with workout analytics and goal tracking.\n\nCampus Connect App | React Native, Node.js\n• Created student networking and event management platform.\nCERTIFICATIONS\nGoogle Associate Android Developer\nFlutter Development Certification\nMeta Mobile App Development Certificate\nACHIEVEMENTS & AWARDS\nWinner, National Mobile App Hackathon 2024.\nTop 5% in Flutter Development Challenge.\nAcademic Excellence Award.\nEXTRACURRICULAR ACTIVITIES\nLead, Mobile Development Club.\nOrganized app development workshops for 300+ students.\nPublished apps with 100,000+ combined downloads.",
+  "clean_text": "rohan naik +91 98765 55667 | rohan.naik.appdev@gmail.com | linkedin.com/in/rohannaik-appdev | github .com/rohannaik | bengaluru, karnataka professional summary mobile application developer with expertise in android, ios, flutter, and cross-platform application development. experienced in designing scalable, user-friendly mobile applications with strong focus on performance, ui/ux, and backend integration. education bachelor of technology — computer science & engineering (2021–2025) pes university, bengaluru cgpa: 9.3/10 relevant coursework: mobile computing, software engineering, database systems, human computer interaction technical skills languages: dart, kotlin, java , swift, javascript frameworks: flutter, react native, android sdk backend: firebase , node.js , rest api databases: sqlite , firebase firestore, mongodb tools: git , android studio, xcode, docker experience mobile app developer intern — appnova technologies (jan 2025 – present) • developed and maintained cross-platform mobile applications with 50,000+ downloads. • improved app performance by 40% through code optimization. • integrated payment gateways and push notification services. android developer intern — techsphere solutions (may 2024 – aug 2024) • built android applications with modern ui principles. • implemented secure authentication and cloud synchronization. projects food delivery app | flutter, firebase • developed end-to-end food ordering application with real-time order tracking. fitness tracker app | kotlin, firebase • built health monitoring app with workout analytics and goal tracking. campus connect app | react native, node.js • created student networking and event management platform. certifications google associate android developer flutter development certification meta mobile app development certificate achievements & awards winner, national mobile app hackathon 2024. top 5% in flutter development challenge. academic excellence award. extracurricular activities lead, mobile development club. organized app development workshops for 300+ students. published apps with 100,000+ combined downloads.",
+  "sections": {
+    "body": "ROHAN NAIK\n\n+91 98765 55667 | rohan.naik.appdev@gmail.com | linkedin.com/in/rohannaik-appdev | github.com/rohannaik | Bengaluru, Karnataka\nPROFESSIONAL SUMMARY\nMobile Application Developer with expertise in Android, iOS, Flutter, and cross-platform application development. Experienced in designing scalable, user-friendly mobile applications with strong focus on performance, UI/UX, and backend integration.",
+    "education": "Bachelor of Technology — Computer Science & Engineering (2021–2025)\nPES University, Bengaluru\nCGPA: 9.3/10\nRelevant Coursework: Mobile Computing, Software Engineering, Database Systems, Human Computer Interaction",
+    "skills": "Languages: Dart, Kotlin, Java, Swift, JavaScript\nFrameworks: Flutter, React Native, Android SDK\nBackend: Firebase, Node.js, REST APIs\nDatabases: SQLite, Firebase Firestore, MongoDB\nTools: Git, Android Studio, Xcode, Docker",
+    "experience": "Mobile App Developer Intern — AppNova Technologies (Jan 2025 – Present)\n• Developed and maintained cross-platform mobile applications with 50,000+ downloads.\n• Improved app performance by 40% through code optimization.\n• Integrated payment gateways and push notification services.\n\nAndroid Developer Intern — TechSphere Solutions (May 2024 – Aug 2024)\n• Built Android applications with modern UI principles.\n• Implemented secure authentication and cloud synchronization.",
+    "projects": "Food Delivery App | Flutter, Firebase\n• Developed end-to-end food ordering application with real-time order tracking.\n\nFitness Tracker App | Kotlin, Firebase\n• Built health monitoring app with workout analytics and goal tracking.\n\nCampus Connect App | React Native, Node.js\n• Created student networking and event management platform.",
+    "certifications": "Google Associate Android Developer\nFlutter Development Certification\nMeta Mobile App Development Certificate\nACHIEVEMENTS & AWARDS\nWinner, National Mobile App Hackathon 2024.\nTop 5% in Flutter Development Challenge.\nAcademic Excellence Award.\nEXTRACURRICULAR ACTIVITIES\nLead, Mobile Development Club.\nOrganized app development workshops for 300+ students.\nPublished apps with 100,000+ combined downloads."
+  },
+  "skills": [
+    "docker",
+    "firebase",
+    "git",
+    "github",
+    "java",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "react",
+    "rest api",
+    "sqlite"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "skills": [
+      "docker",
+      "firebase",
+      "git",
+      "java",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "react",
+      "rest api",
+      "sqlite"
+    ],
+    "projects": [
+      "firebase",
+      "node.js",
+      "react"
+    ]
+  }
+}

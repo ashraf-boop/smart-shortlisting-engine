@@ -1,0 +1,42 @@
+{
+  "filename": "Resume_17_Aakash_Jain.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Aakash Jain\naakash.jain.cse@gmail.com | +91 98xxxxxx17 | github.com/aakashjain | Jaipur\nSUMMARY\nComputer Science student focused primarily on data structures, algorithms, and competitive programming. No web\ndevelopment projects or internship experience yet.\nEDUCATION\nB.Tech Computer Science, Manipal Institute of Technology (2023-2027), CGPA: 7.9/10\nSKILLS\nC++, Data Structures & Algorithms, basic Python, basic SQL, Git (basic)\nPROJECTS\nCompetitive Programming Practice\n•\nSolved 400+ problems on Codeforces and LeetCode, rating 1500+ on Codeforces\nLibrary Book Search (C++ console app)\n•\nConsole-based book search and inventory tool built in C++ with file handling",
+  "clean_text": "aakash jain aakash.jain.cse@gmail.com | +91 98xxxxxx17 | github .com/aakashjain | jaipur summary computer science student focused primarily on data structures , algorithms , and competitive programming. no web development projects or internship experience yet. education b.tech computer science, manipal institute of technology (2023-2027), cgpa: 7.9/10 skills c# , data structures & algorithms , basic python , basic sql , git (basic) projects competitive programming practice • solved 400+ problems on codeforces and leetcode, rating 1500+ on codeforces library book search ( c# console app) • console-based book search and inventory tool built in c# with file handling",
+  "sections": {
+    "body": "Aakash Jain\naakash.jain.cse@gmail.com | +91 98xxxxxx17 | github.com/aakashjain | Jaipur",
+    "summary": "Computer Science student focused primarily on data structures, algorithms, and competitive programming. No web\ndevelopment projects or internship experience yet.",
+    "education": "B.Tech Computer Science, Manipal Institute of Technology (2023-2027), CGPA: 7.9/10",
+    "skills": "C++, Data Structures & Algorithms, basic Python, basic SQL, Git (basic)",
+    "projects": "Competitive Programming Practice\n•\nSolved 400+ problems on Codeforces and LeetCode, rating 1500+ on Codeforces\nLibrary Book Search (C++ console app)\n•\nConsole-based book search and inventory tool built in C++ with file handling"
+  },
+  "skills": [
+    "algorithms",
+    "c#",
+    "data structures",
+    "git",
+    "github",
+    "python",
+    "sql"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "algorithms",
+      "data structures"
+    ],
+    "skills": [
+      "algorithms",
+      "c#",
+      "data structures",
+      "git",
+      "python",
+      "sql"
+    ],
+    "projects": [
+      "c#"
+    ]
+  }
+}

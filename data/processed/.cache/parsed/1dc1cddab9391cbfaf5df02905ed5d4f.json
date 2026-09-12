@@ -1,0 +1,62 @@
+{
+  "filename": "Resume_11_Nikhil_Rao.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Nikhil Rao\nnikhil.rao.dev@gmail.com | +91 98xxxxxx11 | github.com/nikhilrao | Mangaluru\nSUMMARY\nFull stack developer with hands-on experience in Angular and Node.js. Comfortable with backend REST API\ndesign but has not worked with React specifically.\nEDUCATION\nB.E. Computer Science, NMAM Institute of Technology (2023-2027), CGPA: 8.1/10\nSKILLS\nAngular, TypeScript, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git, RxJS, Bootstrap\nPROJECTS\nHostel Complaint Management System\n•\nBuilt with Angular frontend and Node.js/Express backend, MongoDB for data storage\n•\nImplemented role-based dashboards for students, wardens, and admin staff\nInventory Management Tool\n•\nNode.js/Express REST API with MySQL, basic Angular frontend for CRUD operations\nCERTIFICATIONS\nAngular - The Complete Guide (Udemy)",
+  "clean_text": "nikhil rao nikhil.rao.dev@gmail.com | +91 98xxxxxx11 | github .com/nikhilrao | mangaluru summary full stack developer with hands-on experience in angular and node.js . comfortable with backend rest api design but has not worked with react specifically. education b.e. computer science, nmam institute of technology (2023-2027), cgpa: 8.1/10 skills angular , typescript , node.js , express . javascript , mongodb , mysql , rest api , git , rxjs, bootstrap projects hostel complaint management system • built with angular frontend and node.js / express backend, mongodb for data storage • implemented role-based dashboards for students, wardens, and admin staff inventory management tool • node.js / express rest api with mysql , basic angular frontend for crud operations certifications angular - the complete guide (udemy)",
+  "sections": {
+    "body": "Nikhil Rao\nnikhil.rao.dev@gmail.com | +91 98xxxxxx11 | github.com/nikhilrao | Mangaluru",
+    "summary": "Full stack developer with hands-on experience in Angular and Node.js. Comfortable with backend REST API\ndesign but has not worked with React specifically.",
+    "education": "B.E. Computer Science, NMAM Institute of Technology (2023-2027), CGPA: 8.1/10",
+    "skills": "Angular, TypeScript, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git, RxJS, Bootstrap",
+    "projects": "Hostel Complaint Management System\n•\nBuilt with Angular frontend and Node.js/Express backend, MongoDB for data storage\n•\nImplemented role-based dashboards for students, wardens, and admin staff\nInventory Management Tool\n•\nNode.js/Express REST API with MySQL, basic Angular frontend for CRUD operations",
+    "certifications": "Angular - The Complete Guide (Udemy)"
+  },
+  "skills": [
+    "angular",
+    "bootstrap",
+    "express",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "react",
+    "rest api",
+    "typescript"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "angular",
+      "node.js",
+      "react",
+      "rest api"
+    ],
+    "skills": [
+      "angular",
+      "bootstrap",
+      "express",
+      "git",
+      "javascript",
+      "mongodb",
+      "mysql",
+      "node.js",
+      "rest api",
+      "typescript"
+    ],
+    "projects": [
+      "angular",
+      "express",
+      "mongodb",
+      "mysql",
+      "node.js",
+      "rest api"
+    ],
+    "certifications": [
+      "angular"
+    ]
+  }
+}

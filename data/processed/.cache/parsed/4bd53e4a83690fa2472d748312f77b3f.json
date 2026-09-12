@@ -1,0 +1,78 @@
+{
+  "filename": "AI_Developer_Resume_1.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "ARJUN KULKARNI\n\n+91 98765 12345 | arjun.kulkarni.ai@gmail.com | linkedin.com/in/arjunkulkarni-ai | github.com/arjunkulkarni | Bengaluru, Karnataka\nPROFESSIONAL SUMMARY\nAI Developer with strong experience in Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI. Built production-ready AI systems using Python, PyTorch, TensorFlow, LangChain and LLMs. Experienced in developing RAG pipelines, AI copilots and intelligent automation platforms.\nEDUCATION\nBachelor of Technology — Computer Science & Engineering (2021–2025)\nPES University, Bengaluru | CGPA: 9.4/10\nRelevant Coursework: Machine Learning, Deep Learning, Data Structures, Linear Algebra, Artificial Intelligence, Database Systems\nTECHNICAL SKILLS\nLanguages & Libraries: Python, SQL, C++, Bash\nAI/ML Frameworks: TensorFlow, PyTorch, Scikit-Learn, Keras, Hugging Face, LangChain, LangGraph\nData & Tools: Pandas, NumPy, OpenCV, Matplotlib, FAISS, ChromaDB, Jupyter\nDevOps & Platforms: Git, Docker, Linux, AWS, REST APIs, Streamlit\nEXPERIENCE\nAI Engineer Intern — NeuralForge AI Labs (Jan 2025 – Present)\n• Developed enterprise RAG chatbot over 250,000+ documents with 93% answer relevance.\n• Fine-tuned Llama models for domain-specific knowledge retrieval.\n• Built automated evaluation pipelines reducing testing effort by 45%.\n\nMachine Learning Intern — VisionMind Analytics (May 2024 – Aug 2024)\n• Developed predictive analytics models achieving 91% accuracy.\n• Automated ETL and preprocessing workflows for large datasets.\nPROJECTS\nEnterprise AI Copilot | GPT-4, LangChain, FAISS\n• Built AI assistant supporting 20,000+ simulated users.\n• Reduced information retrieval time by 70%.\n\nMedical Imaging AI | PyTorch, OpenCV\n• Designed CNN model achieving 96.1% validation accuracy.\n\nMulti-Agent Research Assistant | LangGraph, OpenAI API\n• Created autonomous agents for research and document summarization.\nCERTIFICATIONS\nAWS Machine Learning Specialty\nTensorFlow Developer Certification\nGenerative AI with Large Language Models — DeepLearning.AI\nACHIEVEMENTS & AWARDS\nTop 2% in Kaggle NLP Competition.\nWinner, National AI Innovation Challenge 2025.\nPublished 2 research papers in Applied Artificial Intelligence.\nEXTRACURRICULAR ACTIVITIES\nPresident, AI & Data Science Club.\nConducted workshops for 400+ students on LLMs and Prompt Engineering.\nTechnical Blogger with 15,000+ article reads.",
+  "clean_text": "arjun kulkarni +91 98765 12345 | arjun.kulkarni.ai@gmail.com | linkedin.com/in/arjunkulkarni-ai | github .com/arjunkulkarni | bengaluru, karnataka professional summary ai developer with strong experience in machine learning , deep learning , nlp , computer vision and generative ai. built production-ready ai systems using python , pytorch , tensorflow , langchain and llms. experienced in developing rag pipelines, ai copilots and intelligent automation platforms. education bachelor of technology — computer science & engineering (2021–2025) pes university, bengaluru | cgpa: 9.4/10 relevant coursework: machine learning , deep learning , data structures , linear algebra, artificial intelligence, database systems technical skills languages & libraries: python , sql , c# , bash ai/ machine learning frameworks: tensorflow , pytorch , scikit-learn , keras, hugging face, langchain, langgraph data & tools: pandas , numpy , opencv, matplotlib, faiss, chromadb, jupyter devops & platforms: git , docker , linux , aws , rest api , streamlit experience ai engineer intern — neuralforge ai labs (jan 2025 – present) • developed enterprise rag chatbot over 250,000+ documents with 93% answer relevance. • fine-tuned llama models for domain-specific knowledge retrieval. • built automated evaluation pipelines reducing testing effort by 45%. machine learning intern — visionmind analytics (may 2024 – aug 2024) • developed predictive analytics models achieving 91% accuracy. • automated etl and preprocessing workflows for large datasets. projects enterprise ai copilot | gpt-4, langchain, faiss • built ai assistant supporting 20,000+ simulated users. • reduced information retrieval time by 70%. medical imaging ai | pytorch , opencv • designed cnn model achieving 96.1% validation accuracy. multi-agent research assistant | langgraph, openai api • created autonomous agents for research and document summarization. certifications aws machine learning specialty tensorflow developer certification generative ai with large language models — deeplearning.ai achievements & awards top 2% in kaggle nlp competition. winner, national ai innovation challenge 2025. published 2 research papers in applied artificial intelligence. extracurricular activities president, ai & data science club. conducted workshops for 400+ students on llms and prompt engineering. technical blogger with 15,000+ article reads.",
+  "sections": {
+    "body": "ARJUN KULKARNI\n\n+91 98765 12345 | arjun.kulkarni.ai@gmail.com | linkedin.com/in/arjunkulkarni-ai | github.com/arjunkulkarni | Bengaluru, Karnataka\nPROFESSIONAL SUMMARY\nAI Developer with strong experience in Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI. Built production-ready AI systems using Python, PyTorch, TensorFlow, LangChain and LLMs. Experienced in developing RAG pipelines, AI copilots and intelligent automation platforms.",
+    "education": "Bachelor of Technology — Computer Science & Engineering (2021–2025)\nPES University, Bengaluru | CGPA: 9.4/10\nRelevant Coursework: Machine Learning, Deep Learning, Data Structures, Linear Algebra, Artificial Intelligence, Database Systems",
+    "skills": "Languages & Libraries: Python, SQL, C++, Bash\nAI/ML Frameworks: TensorFlow, PyTorch, Scikit-Learn, Keras, Hugging Face, LangChain, LangGraph\nData & Tools: Pandas, NumPy, OpenCV, Matplotlib, FAISS, ChromaDB, Jupyter\nDevOps & Platforms: Git, Docker, Linux, AWS, REST APIs, Streamlit",
+    "experience": "AI Engineer Intern — NeuralForge AI Labs (Jan 2025 – Present)\n• Developed enterprise RAG chatbot over 250,000+ documents with 93% answer relevance.\n• Fine-tuned Llama models for domain-specific knowledge retrieval.\n• Built automated evaluation pipelines reducing testing effort by 45%.\n\nMachine Learning Intern — VisionMind Analytics (May 2024 – Aug 2024)\n• Developed predictive analytics models achieving 91% accuracy.\n• Automated ETL and preprocessing workflows for large datasets.",
+    "projects": "Enterprise AI Copilot | GPT-4, LangChain, FAISS\n• Built AI assistant supporting 20,000+ simulated users.\n• Reduced information retrieval time by 70%.\n\nMedical Imaging AI | PyTorch, OpenCV\n• Designed CNN model achieving 96.1% validation accuracy.\n\nMulti-Agent Research Assistant | LangGraph, OpenAI API\n• Created autonomous agents for research and document summarization.",
+    "certifications": "AWS Machine Learning Specialty\nTensorFlow Developer Certification\nGenerative AI with Large Language Models — DeepLearning.AI\nACHIEVEMENTS & AWARDS\nTop 2% in Kaggle NLP Competition.\nWinner, National AI Innovation Challenge 2025.\nPublished 2 research papers in Applied Artificial Intelligence.\nEXTRACURRICULAR ACTIVITIES\nPresident, AI & Data Science Club.\nConducted workshops for 400+ students on LLMs and Prompt Engineering.\nTechnical Blogger with 15,000+ article reads."
+  },
+  "skills": [
+    "aws",
+    "c#",
+    "data structures",
+    "deep learning",
+    "docker",
+    "git",
+    "github",
+    "linux",
+    "machine learning",
+    "nlp",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "rest api",
+    "scikit-learn",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "deep learning",
+      "github",
+      "machine learning",
+      "nlp",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "education": [
+      "data structures",
+      "deep learning",
+      "machine learning"
+    ],
+    "skills": [
+      "aws",
+      "c#",
+      "docker",
+      "git",
+      "linux",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "rest api",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ],
+    "experience": [
+      "machine learning"
+    ],
+    "projects": [
+      "pytorch"
+    ],
+    "certifications": [
+      "aws",
+      "machine learning",
+      "nlp",
+      "tensorflow"
+    ]
+  }
+}

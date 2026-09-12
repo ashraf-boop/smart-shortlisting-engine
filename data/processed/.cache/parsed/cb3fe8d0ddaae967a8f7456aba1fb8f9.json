@@ -1,0 +1,58 @@
+{
+  "filename": "Resume_05_Ananya_Das.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Ananya Das\nananya.das.cs@gmail.com | +91 98xxxxxx05 | github.com/ananyadas | Kolkata\nSUMMARY\nBackend developer with a strong grasp of Python and Django. Comfortable building REST APIs and working with\nrelational databases; has not worked with React or Node.js.\nEDUCATION\nB.E. Information Science, BMS College of Engineering (2023-2027), CGPA: 8.4/10\nSKILLS\nPython, Django, Django REST Framework, PostgreSQL, SQLite, Git, basic HTML/CSS, Postman\nPROJECTS\nCampus Lost & Found Portal\n•\nBuilt with Django and Django REST Framework, PostgreSQL as the database\n•\nServer-rendered templates with Django (no separate JS frontend framework)\nBlog API\n•\nREST API built with DRF supporting CRUD operations and token authentication\nCERTIFICATIONS\nPython for Everybody (Coursera)",
+  "clean_text": "ananya das ananya.das.cs@gmail.com | +91 98xxxxxx05 | github .com/ananyadas | kolkata summary backend developer with a strong grasp of python and django . comfortable building rest api and working with relational databases; has not worked with react or node.js . education b.e. information science, bms college of engineering (2023-2027), cgpa: 8.4/10 skills python , django , django rest framework, postgresql , sqlite , git , basic html / css , postman projects campus lost & found portal • built with django and django rest framework, postgresql as the database • server-rendered templates with django (no separate javascript frontend framework) blog api • rest api built with drf supporting crud operations and token authentication certifications python for everybody (coursera)",
+  "sections": {
+    "body": "Ananya Das\nananya.das.cs@gmail.com | +91 98xxxxxx05 | github.com/ananyadas | Kolkata",
+    "summary": "Backend developer with a strong grasp of Python and Django. Comfortable building REST APIs and working with\nrelational databases; has not worked with React or Node.js.",
+    "education": "B.E. Information Science, BMS College of Engineering (2023-2027), CGPA: 8.4/10",
+    "skills": "Python, Django, Django REST Framework, PostgreSQL, SQLite, Git, basic HTML/CSS, Postman",
+    "projects": "Campus Lost & Found Portal\n•\nBuilt with Django and Django REST Framework, PostgreSQL as the database\n•\nServer-rendered templates with Django (no separate JS frontend framework)\nBlog API\n•\nREST API built with DRF supporting CRUD operations and token authentication",
+    "certifications": "Python for Everybody (Coursera)"
+  },
+  "skills": [
+    "css",
+    "django",
+    "git",
+    "github",
+    "html",
+    "javascript",
+    "node.js",
+    "postgresql",
+    "python",
+    "react",
+    "rest api",
+    "sqlite"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "django",
+      "node.js",
+      "python",
+      "react",
+      "rest api"
+    ],
+    "skills": [
+      "css",
+      "django",
+      "git",
+      "html",
+      "postgresql",
+      "python",
+      "sqlite"
+    ],
+    "projects": [
+      "django",
+      "javascript",
+      "postgresql",
+      "rest api"
+    ],
+    "certifications": [
+      "python"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "filename": "Job Description.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "Job Description: Junior Full Stack Developer Intern\nCompany: TechNova Solutions\nLocation: Remote / Hybrid\nAbout the Role:\nTechNova Solutions is seeking a motivated Junior Full Stack Developer Intern to join our core engineering team. In this role, you will work on building scalable web applications, designing RESTful APIs, and developing responsive user interfaces.\nKey Responsibilities:\nDesign, develop, and maintain front-end web interfaces and back-end services.\nCollaborate with cross-functional teams to integrate REST APIs and microservices.\nWrite clean, testable code and maintain codebases using Git and GitHub.\nOptimize application performance, manage local/cloud database schemas, and debug production issues.\nRequired Technical Skills:\nProgramming Languages: Python, JavaScript, HTML, CSS, SQL\nFrameworks & Libraries: Node.js, Express, React, Pandas\nTools & Platforms: Git, GitHub, Linux, Docker\nDatabase Management: PostgreSQL, MongoDB\nQualifications & Requirements:\nBasic understanding of data structures, algorithms, and web development fundamentals.\nHands-on experience with version control workflows using GitHub.\nStrong problem-solving skills and eagerness to learn modern full-stack frameworks.",
+  "clean_text": "job description: junior full stack developer intern company: technova solutions location: remote / hybrid about the role: technova solutions is seeking a motivated junior full stack developer intern to join our core engineering team. in this role, you will work on building scalable web applications, designing rest api , and developing responsive user interfaces. key responsibilities: design, develop, and maintain front-end web interfaces and back-end services. collaborate with cross-functional teams to integrate rest api and microservices . write clean, testable code and maintain codebases using git and github . optimize application performance, manage local/cloud database schemas, and debug production issues. required technical skills: programming languages: python , javascript , html , css , sql frameworks & libraries: node.js , express , react , pandas tools & platforms: git , github , linux , docker database management: postgresql , mongodb qualifications & requirements: basic understanding of data structures , algorithms , and web development fundamentals. hands-on experience with version control workflows using github . strong problem-solving skills and eagerness to learn modern full-stack frameworks.",
+  "sections": {
+    "body": "Job Description: Junior Full Stack Developer Intern\nCompany: TechNova Solutions\nLocation: Remote / Hybrid\nAbout the Role:\nTechNova Solutions is seeking a motivated Junior Full Stack Developer Intern to join our core engineering team. In this role, you will work on building scalable web applications, designing RESTful APIs, and developing responsive user interfaces.\nKey Responsibilities:\nDesign, develop, and maintain front-end web interfaces and back-end services.\nCollaborate with cross-functional teams to integrate REST APIs and microservices.\nWrite clean, testable code and maintain codebases using Git and GitHub.\nOptimize application performance, manage local/cloud database schemas, and debug production issues.\nRequired Technical Skills:\nProgramming Languages: Python, JavaScript, HTML, CSS, SQL\nFrameworks & Libraries: Node.js, Express, React, Pandas\nTools & Platforms: Git, GitHub, Linux, Docker\nDatabase Management: PostgreSQL, MongoDB\nQualifications & Requirements:\nBasic understanding of data structures, algorithms, and web development fundamentals.\nHands-on experience with version control workflows using GitHub.\nStrong problem-solving skills and eagerness to learn modern full-stack frameworks."
+  },
+  "skills": [
+    "algorithms",
+    "css",
+    "data structures",
+    "docker",
+    "express",
+    "git",
+    "github",
+    "html",
+    "javascript",
+    "linux",
+    "microservices",
+    "mongodb",
+    "node.js",
+    "pandas",
+    "postgresql",
+    "python",
+    "react",
+    "rest api",
+    "sql"
+  ],
+  "skills_by_section": {
+    "body": [
+      "algorithms",
+      "css",
+      "data structures",
+      "docker",
+      "express",
+      "git",
+      "github",
+      "html",
+      "javascript",
+      "linux",
+      "microservices",
+      "mongodb",
+      "node.js",
+      "pandas",
+      "postgresql",
+      "python",
+      "react",
+      "rest api",
+      "sql"
+    ]
+  }
+}

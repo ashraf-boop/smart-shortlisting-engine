@@ -1,0 +1,62 @@
+{
+  "filename": "AI_Dev_A.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "ROHAN MEHTA\nBengaluru, India | rohan.mehta.dev@gmail.com | +91 98765 43210\nlinkedin.com/in/rohanmehta-ai | github.com/rohanmehta\nProfile Summary\nFinal-year Computer Science student with hands-on experience across the ML lifecycle, from data preprocessing to fine-tuning and deployment. Comfortable working independently on applied NLP and LLM-based projects.\nSkills\nLanguages: Python, SQL, C++\nML/DL: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers\nTools: Docker, Git, FastAPI, Jupyter, basic AWS\nExperience\nMachine Learning Intern — Veridian Analytics Pvt. Ltd.\nMay 2025 – Jul 2025 | Bengaluru\nFine-tuned a text classification model for support ticket categorization, improving accuracy on the internal test set.\nBuilt a small retrieval-based chatbot prototype using LangChain to answer queries from internal documentation.\nContainerized model inference code with Docker for easier handoff to the engineering team.\nAI Research Assistant (Part-time) — Dept. of Computer Science, R.V. College of Engineering\nJan 2025 – Apr 2025 | Bengaluru\nAssisted faculty in benchmarking two open-source LLMs on regional language summarization tasks.\nHelped compile and clean a small evaluation dataset used for the benchmarking study.\nProjects\nDocSense — PDF Question Answering Tool\nBuilt a tool that lets users upload a PDF and ask questions about it, using OpenAI embeddings and FAISS for retrieval.\nUsed by a few classmates during exam season for quickly searching through lecture notes.\nCrop Disease Detector — Computer Vision Model\nTrained a CNN (ResNet-50 backbone) to classify 12 crop leaf diseases from images for a college agri-tech project.\nLeadership & Activities\nMentored 4 junior students in introductory machine learning concepts through a peer-learning initiative.\nEducation\nB.E. Computer Science Engineering\nR.V. College of Engineering, Bengaluru | 2022 – 2026 | CGPA: 8.6/10\nCertifications\nDeepLearning.AI — Deep Learning Specialization (Coursera)\nHugging Face NLP Course (completed)",
+  "clean_text": "rohan mehta bengaluru, india | rohan.mehta.dev@gmail.com | +91 98765 43210 linkedin.com/in/rohanmehta-ai | github .com/rohanmehta profile summary final-year computer science student with hands-on experience across the machine learning lifecycle, from data preprocessing to fine-tuning and deployment. comfortable working independently on applied nlp and llm-based projects. skills languages: python , sql , c# machine learning / deep learning : pytorch , tensorflow , scikit-learn , hugging face transformers tools: docker , git , fastapi , jupyter, basic aws experience machine learning intern — veridian analytics pvt. ltd. may 2025 – jul 2025 | bengaluru fine-tuned a text classification model for support ticket categorization, improving accuracy on the internal test set. built a small retrieval-based chatbot prototype using langchain to answer queries from internal documentation. containerized model inference code with docker for easier handoff to the engineering team. ai research assistant (part-time) — dept. of computer science, r.v. college of engineering jan 2025 – apr 2025 | bengaluru assisted faculty in benchmarking two open-source llms on regional language summarization tasks. helped compile and clean a small evaluation dataset used for the benchmarking study. projects docsense — pdf question answering tool built a tool that lets users upload a pdf and ask questions about it, using openai embeddings and faiss for retrieval. used by a few classmates during exam season for quickly searching through lecture notes. crop disease detector — computer vision model trained a cnn (resnet-50 backbone) to classify 12 crop leaf diseases from images for a college agri-tech project. leadership & activities mentored 4 junior students in introductory machine learning concepts through a peer-learning initiative. education b.e. computer science engineering r.v. college of engineering, bengaluru | 2022 – 2026 | cgpa: 8.6/10 certifications deeplearning.ai — deep learning specialization (coursera) hugging face nlp course (completed)",
+  "sections": {
+    "body": "ROHAN MEHTA\nBengaluru, India | rohan.mehta.dev@gmail.com | +91 98765 43210\nlinkedin.com/in/rohanmehta-ai | github.com/rohanmehta\nProfile Summary\nFinal-year Computer Science student with hands-on experience across the ML lifecycle, from data preprocessing to fine-tuning and deployment. Comfortable working independently on applied NLP and LLM-based projects.",
+    "skills": "Languages: Python, SQL, C++\nML/DL: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers\nTools: Docker, Git, FastAPI, Jupyter, basic AWS",
+    "experience": "Machine Learning Intern — Veridian Analytics Pvt. Ltd.\nMay 2025 – Jul 2025 | Bengaluru\nFine-tuned a text classification model for support ticket categorization, improving accuracy on the internal test set.\nBuilt a small retrieval-based chatbot prototype using LangChain to answer queries from internal documentation.\nContainerized model inference code with Docker for easier handoff to the engineering team.\nAI Research Assistant (Part-time) — Dept. of Computer Science, R.V. College of Engineering\nJan 2025 – Apr 2025 | Bengaluru\nAssisted faculty in benchmarking two open-source LLMs on regional language summarization tasks.\nHelped compile and clean a small evaluation dataset used for the benchmarking study.",
+    "projects": "DocSense — PDF Question Answering Tool\nBuilt a tool that lets users upload a PDF and ask questions about it, using OpenAI embeddings and FAISS for retrieval.\nUsed by a few classmates during exam season for quickly searching through lecture notes.\nCrop Disease Detector — Computer Vision Model\nTrained a CNN (ResNet-50 backbone) to classify 12 crop leaf diseases from images for a college agri-tech project.\nLeadership & Activities\nMentored 4 junior students in introductory machine learning concepts through a peer-learning initiative.",
+    "education": "B.E. Computer Science Engineering\nR.V. College of Engineering, Bengaluru | 2022 – 2026 | CGPA: 8.6/10",
+    "certifications": "DeepLearning.AI — Deep Learning Specialization (Coursera)\nHugging Face NLP Course (completed)"
+  },
+  "skills": [
+    "aws",
+    "c#",
+    "deep learning",
+    "docker",
+    "fastapi",
+    "git",
+    "github",
+    "machine learning",
+    "nlp",
+    "python",
+    "pytorch",
+    "scikit-learn",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github",
+      "machine learning",
+      "nlp"
+    ],
+    "skills": [
+      "aws",
+      "c#",
+      "deep learning",
+      "docker",
+      "fastapi",
+      "git",
+      "machine learning",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ],
+    "experience": [
+      "docker",
+      "machine learning"
+    ],
+    "projects": [
+      "machine learning"
+    ],
+    "certifications": [
+      "deep learning",
+      "nlp"
+    ]
+  }
+}

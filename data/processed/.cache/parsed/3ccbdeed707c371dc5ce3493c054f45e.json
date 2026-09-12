@@ -1,0 +1,52 @@
+{
+  "filename": "ai_dev__rohan_mehta.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Rohan Mehta\nAI Developer\nBengaluru, India | +91 98765 11223 | rohan.mehta.dev@gmail.com | linkedin.com/in/rohanmehta-ai\nPROFESSIONAL SUMMARY\nAI Developer with 3 years building production ML pipelines and LLM-based applications. Skilled in Python,\nPyTorch, and deploying models at scale.\nSKILLS\n•\nPython, PyTorch, TensorFlow\n•\nLLM fine-tuning (LoRA, QLoRA)\n•\nPrompt engineering & RAG pipelines\n•\nVector databases (Pinecone, FAISS)\n•\nDocker, Kubernetes, MLflow\n•\nREST/gRPC API development\n•\nHugging Face Transformers\n•\nSQL & data preprocessing\nWORK EXPERIENCE\nAI Developer — Nimbus Analytics Pvt Ltd\nJul 2023 - Present\n•\nBuilt a retrieval-augmented generation (RAG) chatbot for internal documentation, reducing support ticket\nresolution time by 35%\n•\nFine-tuned a LLaMA-7B model using LoRA for domain-specific summarization, improving ROUGE score by\n18%\n•\nDeployed ML inference services on Kubernetes with autoscaling, handling 50K+ daily requests\n•\nBuilt data preprocessing pipelines in Python processing 2M+ records daily\nJunior ML Engineer — CodeSprint Technologies\nJun 2021 - Jun 2023\n•\nDeveloped a sentiment analysis model achieving 91% accuracy on customer review data\n•\nAutomated model retraining pipeline using MLflow and Airflow\n•\nCollaborated with product team to integrate ML predictions into the company's mobile app\nPROJECTS\nDocuMind - AI Document Q&A\nBuilt an end-to-end RAG system using LangChain, FAISS and OpenAI API to answer questions over PDF document\nsets\nResume Screener Bot\nCreated an NLP pipeline to rank resumes against job descriptions using sentence embeddings\nEDUCATION\nB.Tech, Computer Science — VIT Vellore\n2017 - 2021\nCERTIFICATIONS\n•\nDeepLearning.AI - Generative AI with LLMs\n•\nAWS Certified Machine Learning - Specialty",
+  "clean_text": "rohan mehta ai developer bengaluru, india | +91 98765 11223 | rohan.mehta.dev@gmail.com | linkedin.com/in/rohanmehta-ai professional summary ai developer with 3 years building production machine learning pipelines and llm-based applications. skilled in python , pytorch , and deploying models at scale. skills • python , pytorch , tensorflow • llm fine-tuning (lora, qlora) • prompt engineering & rag pipelines • vector databases (pinecone, faiss) • docker , kubernetes , mlflow • rest/grpc api development • hugging face transformers • sql & data preprocessing work experience ai developer — nimbus analytics pvt ltd jul 2023 - present • built a retrieval-augmented generation (rag) chatbot for internal documentation, reducing support ticket resolution time by 35% • fine-tuned a llama-7b model using lora for domain-specific summarization, improving rouge score by 18% • deployed machine learning inference services on kubernetes with autoscaling, handling 50k+ daily requests • built data preprocessing pipelines in python processing 2m+ records daily junior machine learning engineer — codesprint technologies jun 2021 - jun 2023 • developed a sentiment analysis model achieving 91% accuracy on customer review data • automated model retraining pipeline using mlflow and airflow • collaborated with product team to integrate machine learning predictions into the company's mobile app projects documind - ai document q&a built an end-to-end rag system using langchain, faiss and openai api to answer questions over pdf document sets resume screener bot created an nlp pipeline to rank resumes against job descriptions using sentence embeddings education b.tech, computer science — vit vellore 2017 - 2021 certifications • deeplearning.ai - generative ai with llms • aws certified machine learning - specialty",
+  "sections": {
+    "body": "Rohan Mehta\nAI Developer\nBengaluru, India | +91 98765 11223 | rohan.mehta.dev@gmail.com | linkedin.com/in/rohanmehta-ai\nPROFESSIONAL SUMMARY\nAI Developer with 3 years building production ML pipelines and LLM-based applications. Skilled in Python,\nPyTorch, and deploying models at scale.",
+    "skills": "•\nPython, PyTorch, TensorFlow\n•\nLLM fine-tuning (LoRA, QLoRA)\n•\nPrompt engineering & RAG pipelines\n•\nVector databases (Pinecone, FAISS)\n•\nDocker, Kubernetes, MLflow\n•\nREST/gRPC API development\n•\nHugging Face Transformers\n•\nSQL & data preprocessing",
+    "experience": "AI Developer — Nimbus Analytics Pvt Ltd\nJul 2023 - Present\n•\nBuilt a retrieval-augmented generation (RAG) chatbot for internal documentation, reducing support ticket\nresolution time by 35%\n•\nFine-tuned a LLaMA-7B model using LoRA for domain-specific summarization, improving ROUGE score by\n18%\n•\nDeployed ML inference services on Kubernetes with autoscaling, handling 50K+ daily requests\n•\nBuilt data preprocessing pipelines in Python processing 2M+ records daily\nJunior ML Engineer — CodeSprint Technologies\nJun 2021 - Jun 2023\n•\nDeveloped a sentiment analysis model achieving 91% accuracy on customer review data\n•\nAutomated model retraining pipeline using MLflow and Airflow\n•\nCollaborated with product team to integrate ML predictions into the company's mobile app",
+    "projects": "DocuMind - AI Document Q&A\nBuilt an end-to-end RAG system using LangChain, FAISS and OpenAI API to answer questions over PDF document\nsets\nResume Screener Bot\nCreated an NLP pipeline to rank resumes against job descriptions using sentence embeddings",
+    "education": "B.Tech, Computer Science — VIT Vellore\n2017 - 2021",
+    "certifications": "•\nDeepLearning.AI - Generative AI with LLMs\n•\nAWS Certified Machine Learning - Specialty"
+  },
+  "skills": [
+    "aws",
+    "docker",
+    "kubernetes",
+    "machine learning",
+    "nlp",
+    "python",
+    "pytorch",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "machine learning",
+      "python",
+      "pytorch"
+    ],
+    "skills": [
+      "docker",
+      "kubernetes",
+      "python",
+      "pytorch",
+      "sql",
+      "tensorflow"
+    ],
+    "experience": [
+      "kubernetes",
+      "machine learning",
+      "python"
+    ],
+    "projects": [
+      "nlp"
+    ],
+    "certifications": [
+      "aws",
+      "machine learning"
+    ]
+  }
+}

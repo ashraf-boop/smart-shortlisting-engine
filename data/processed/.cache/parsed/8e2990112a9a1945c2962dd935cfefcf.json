@@ -1,0 +1,22 @@
+{
+  "filename": "Cloud_Engineer_Resume.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "Candidate 5 - Cloud Engineer\n\ndummy.email@example.com | LinkedIn | GitHub | India\nPROFESSIONAL SUMMARY\nExperienced Cloud Engineer with strong domain expertise and internship experience.\nEDUCATION\nBachelor's Degree with strong academic performance.\nTECHNICAL SKILLS\nRelevant tools, technologies, and professional skills.\nEXPERIENCE\nIndustry internship and project experience with measurable impact.\nPROJECTS\n2-3 domain-specific projects demonstrating expertise.\nCERTIFICATIONS\nRelevant certifications and coursework.\nACHIEVEMENTS & AWARDS\nCompetitions, awards, and recognition.\nEXTRACURRICULAR ACTIVITIES\nLeadership, clubs, volunteering, and mentoring.",
+  "clean_text": "candidate 5 - cloud engineer dummy.email@example.com | linkedin | github | india professional summary experienced cloud engineer with strong domain expertise and internship experience. education bachelor's degree with strong academic performance. technical skills relevant tools, technologies, and professional skills. experience industry internship and project experience with measurable impact. projects 2-3 domain-specific projects demonstrating expertise. certifications relevant certifications and coursework. achievements & awards competitions, awards, and recognition. extracurricular activities leadership, clubs, volunteering, and mentoring.",
+  "sections": {
+    "body": "Candidate 5 - Cloud Engineer\n\ndummy.email@example.com | LinkedIn | GitHub | India\nPROFESSIONAL SUMMARY\nExperienced Cloud Engineer with strong domain expertise and internship experience.",
+    "education": "Bachelor's Degree with strong academic performance.",
+    "skills": "Relevant tools, technologies, and professional skills.",
+    "experience": "Industry internship and project experience with measurable impact.",
+    "projects": "2-3 domain-specific projects demonstrating expertise.",
+    "certifications": "Relevant certifications and coursework.\nACHIEVEMENTS & AWARDS\nCompetitions, awards, and recognition.\nEXTRACURRICULAR ACTIVITIES\nLeadership, clubs, volunteering, and mentoring."
+  },
+  "skills": [
+    "github"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ]
+  }
+}

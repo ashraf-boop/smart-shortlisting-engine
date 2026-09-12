@@ -1,0 +1,62 @@
+{
+  "filename": "Resume_12_Divya_Krishnan.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Divya Krishnan\ndivya.krishnan.cs@gmail.com | +91 98xxxxxx12 | github.com/divyak | Coimbatore\nSUMMARY\nComputer Science student with a strong personal project portfolio in the MERN stack, cloud deployment\nexperience, and exposure to agile practices through a college developer club.\nEDUCATION\nB.E. Computer Science, PSG College of Technology (2023-2027), CGPA: 8.9/10\nSKILLS\nJavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Git/GitHub, AWS (EC2, S3), Jest, Agile/Scrum,\nTailwind CSS\nPROJECTS\nCivicConnect - Local Issue Reporting Platform\n•\nFull stack MERN application allowing citizens to report and track local civic issues\n•\nDeployed backend on AWS EC2 and frontend on Vercel; used GitHub Actions for CI/CD\n•\nWrote Jest test suites for critical API endpoints\nDeveloper Club Sprint Projects\n•\nLed a 4-person team through 2-week agile sprints to build 3 internal club tools using MERN\nCERTIFICATIONS\nAWS Academy Cloud Foundations",
+  "clean_text": "divya krishnan divya.krishnan.cs@gmail.com | +91 98xxxxxx12 | github .com/divyak | coimbatore summary computer science student with a strong personal project portfolio in the mern stack, cloud deployment experience, and exposure to agile practices through a college developer club. education b.e. computer science, psg college of technology (2023-2027), cgpa: 8.9/10 skills javascript , react . javascript , node.js , express . javascript , mongodb , rest api , git / github , aws (ec2, s3), jest, agile / scrum , tailwind css projects civicconnect - local issue reporting platform • full stack mern application allowing citizens to report and track local civic issues • deployed backend on aws ec2 and frontend on vercel; used github actions for ci/cd • wrote jest test suites for critical api endpoints developer club sprint projects • led a 4-person team through 2-week agile sprints to build 3 internal club tools using mern certifications aws academy cloud foundations",
+  "sections": {
+    "body": "Divya Krishnan\ndivya.krishnan.cs@gmail.com | +91 98xxxxxx12 | github.com/divyak | Coimbatore",
+    "summary": "Computer Science student with a strong personal project portfolio in the MERN stack, cloud deployment\nexperience, and exposure to agile practices through a college developer club.",
+    "education": "B.E. Computer Science, PSG College of Technology (2023-2027), CGPA: 8.9/10",
+    "skills": "JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Git/GitHub, AWS (EC2, S3), Jest, Agile/Scrum,\nTailwind CSS",
+    "projects": "CivicConnect - Local Issue Reporting Platform\n•\nFull stack MERN application allowing citizens to report and track local civic issues\n•\nDeployed backend on AWS EC2 and frontend on Vercel; used GitHub Actions for CI/CD\n•\nWrote Jest test suites for critical API endpoints\nDeveloper Club Sprint Projects\n•\nLed a 4-person team through 2-week agile sprints to build 3 internal club tools using MERN",
+    "certifications": "AWS Academy Cloud Foundations"
+  },
+  "skills": [
+    "agile",
+    "aws",
+    "ci/cd",
+    "css",
+    "express",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "react",
+    "rest api",
+    "scrum",
+    "tailwind"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "agile"
+    ],
+    "skills": [
+      "agile",
+      "aws",
+      "css",
+      "express",
+      "git",
+      "github",
+      "javascript",
+      "mongodb",
+      "node.js",
+      "react",
+      "rest api",
+      "scrum",
+      "tailwind"
+    ],
+    "projects": [
+      "agile",
+      "aws",
+      "ci/cd",
+      "github"
+    ],
+    "certifications": [
+      "aws"
+    ]
+  }
+}

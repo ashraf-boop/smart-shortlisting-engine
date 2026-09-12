@@ -1,0 +1,3 @@
+Job Title: Cybersecurity Analyst 
+Responsibilities: Analyze security logs, manage vulnerabilities, and automate script workflows. 
+Required Skills: Python, SQL, Linux, GitHub, Pandas, HTML.

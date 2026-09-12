@@ -1,0 +1,51 @@
+{
+  "filename": "Sample_JD.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "TechNova Solutions\nJunior Full Stack Developer Intern | Bengaluru (Hybrid) | 6-Month Internship\nABOUT THE ROLE\nTechNova Solutions is looking for a Junior Full Stack Developer Intern to join our product engineering team.\nYou will work closely with senior developers to build and ship features for our internal SaaS product,\ncontributing across the frontend and backend of the application.\nKEY RESPONSIBILITIES\n•\nDevelop and maintain web application features using React (frontend) and Node.js/Express (backend)\n•\nDesign and consume REST APIs; work with relational and NoSQL databases\n•\nWrite clean, tested, and maintainable code; participate in code reviews\n•\nCollaborate with designers and product managers in an agile/scrum environment\n•\nDebug and resolve issues reported by QA and users\nMUST-HAVE SKILLS\n•\nProficiency in JavaScript (ES6+) and at least one modern frontend framework (React preferred)\n•\nExperience building backend services with Node.js and Express (or similar)\n•\nWorking knowledge of REST APIs and JSON\n•\nFamiliarity with SQL or NoSQL databases (MySQL, PostgreSQL, MongoDB)\n•\nVersion control experience with Git/GitHub\n•\nPursuing or holding a degree in Computer Science, IT, or a related field\nGOOD-TO-HAVE SKILLS\n•\nTypeScript\n•\nCloud basics (AWS/GCP/Azure)\n•\nTesting frameworks (Jest, Mocha)\n•\nDocker / basic containerization\n•\nPrior internship or personal projects deployed live\n•\nExposure to Agile/Scrum practices\nSOFT SKILLS\nStrong problem-solving ability, clear communication, willingness to learn new tools quickly, and comfort working\nin a fast-paced, collaborative team environment.",
+  "clean_text": "technova solutions junior full stack developer intern | bengaluru (hybrid) | 6-month internship about the role technova solutions is looking for a junior full stack developer intern to join our product engineering team. you will work closely with senior developers to build and ship features for our internal saas product, contributing across the frontend and backend of the application. key responsibilities • develop and maintain web application features using react (frontend) and node.js / express (backend) • design and consume rest api ; work with relational and nosql databases • write clean, tested, and maintainable code; participate in code reviews • collaborate with designers and product managers in an agile / scrum environment • debug and resolve issues reported by qa and users must-have skills • proficiency in javascript (es6+) and at least one modern frontend framework ( react preferred) • experience building backend services with node.js and express (or similar) • working knowledge of rest api and json • familiarity with sql or nosql databases ( mysql , postgresql , mongodb ) • version control experience with git / github • pursuing or holding a degree in computer science, it, or a related field good-to-have skills • typescript • cloud basics ( aws / gcp / azure ) • testing frameworks (jest, mocha) • docker / basic containerization • prior internship or personal projects deployed live • exposure to agile / scrum practices soft skills strong problem-solving ability, clear communication, willingness to learn new tools quickly, and comfort working in a fast-paced, collaborative team environment.",
+  "sections": {
+    "body": "TechNova Solutions\nJunior Full Stack Developer Intern | Bengaluru (Hybrid) | 6-Month Internship\nABOUT THE ROLE\nTechNova Solutions is looking for a Junior Full Stack Developer Intern to join our product engineering team.\nYou will work closely with senior developers to build and ship features for our internal SaaS product,\ncontributing across the frontend and backend of the application.\nKEY RESPONSIBILITIES\n•\nDevelop and maintain web application features using React (frontend) and Node.js/Express (backend)\n•\nDesign and consume REST APIs; work with relational and NoSQL databases\n•\nWrite clean, tested, and maintainable code; participate in code reviews\n•\nCollaborate with designers and product managers in an agile/scrum environment\n•\nDebug and resolve issues reported by QA and users\nMUST-HAVE SKILLS\n•\nProficiency in JavaScript (ES6+) and at least one modern frontend framework (React preferred)\n•\nExperience building backend services with Node.js and Express (or similar)\n•\nWorking knowledge of REST APIs and JSON\n•\nFamiliarity with SQL or NoSQL databases (MySQL, PostgreSQL, MongoDB)\n•\nVersion control experience with Git/GitHub\n•\nPursuing or holding a degree in Computer Science, IT, or a related field\nGOOD-TO-HAVE SKILLS\n•\nTypeScript\n•\nCloud basics (AWS/GCP/Azure)\n•\nTesting frameworks (Jest, Mocha)\n•\nDocker / basic containerization\n•\nPrior internship or personal projects deployed live\n•\nExposure to Agile/Scrum practices\nSOFT SKILLS\nStrong problem-solving ability, clear communication, willingness to learn new tools quickly, and comfort working\nin a fast-paced, collaborative team environment."
+  },
+  "skills": [
+    "agile",
+    "aws",
+    "azure",
+    "docker",
+    "express",
+    "gcp",
+    "git",
+    "github",
+    "javascript",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "postgresql",
+    "react",
+    "rest api",
+    "scrum",
+    "sql",
+    "typescript"
+  ],
+  "skills_by_section": {
+    "body": [
+      "agile",
+      "aws",
+      "azure",
+      "docker",
+      "express",
+      "gcp",
+      "git",
+      "github",
+      "javascript",
+      "mongodb",
+      "mysql",
+      "node.js",
+      "postgresql",
+      "react",
+      "rest api",
+      "scrum",
+      "sql",
+      "typescript"
+    ]
+  }
+}

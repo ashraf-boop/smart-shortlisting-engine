@@ -1,0 +1,58 @@
+{
+  "filename": "Resume_06_Vikram_Nair.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Vikram Nair\nvikram.nair.ml@gmail.com | +91 98xxxxxx06 | github.com/vikramnair | Kochi\nSUMMARY\nData Science enthusiast focused on machine learning and data analysis. Strong in Python data libraries but has\nnot built web applications or worked with JavaScript.\nEDUCATION\nB.Tech Computer Science (AI/ML specialization), Amrita Vishwa Vidyapeetham (2023-2027), CGPA: 8.8/10\nSKILLS\nPython, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, SQL, Jupyter Notebook, basic Git\nPROJECTS\nStudent Placement Prediction Model\n•\nBuilt a classification model using Scikit-learn to predict placement outcomes from academic data\n•\nPerformed EDA and feature engineering using Pandas and Matplotlib\nSentiment Analysis on Twitter Data\n•\nUsed NLTK and Scikit-learn to classify tweet sentiment; no web deployment\nCERTIFICATIONS\nMachine Learning by Andrew Ng (Coursera)",
+  "clean_text": "vikram nair vikram.nair. machine learning @gmail.com | +91 98xxxxxx06 | github .com/vikramnair | kochi summary data science enthusiast focused on machine learning and data analysis . strong in python data libraries but has not built web applications or worked with javascript . education b.tech computer science (ai/ machine learning specialization), amrita vishwa vidyapeetham (2023-2027), cgpa: 8.8/10 skills python , pandas , numpy , scikit-learn , tensorflow , matplotlib, sql , jupyter notebook, basic git projects student placement prediction model • built a classification model using scikit-learn to predict placement outcomes from academic data • performed eda and feature engineering using pandas and matplotlib sentiment analysis on twitter data • used nltk and scikit-learn to classify tweet sentiment; no web deployment certifications machine learning by andrew ng (coursera)",
+  "sections": {
+    "body": "Vikram Nair\nvikram.nair.ml@gmail.com | +91 98xxxxxx06 | github.com/vikramnair | Kochi",
+    "summary": "Data Science enthusiast focused on machine learning and data analysis. Strong in Python data libraries but has\nnot built web applications or worked with JavaScript.",
+    "education": "B.Tech Computer Science (AI/ML specialization), Amrita Vishwa Vidyapeetham (2023-2027), CGPA: 8.8/10",
+    "skills": "Python, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, SQL, Jupyter Notebook, basic Git",
+    "projects": "Student Placement Prediction Model\n•\nBuilt a classification model using Scikit-learn to predict placement outcomes from academic data\n•\nPerformed EDA and feature engineering using Pandas and Matplotlib\nSentiment Analysis on Twitter Data\n•\nUsed NLTK and Scikit-learn to classify tweet sentiment; no web deployment",
+    "certifications": "Machine Learning by Andrew Ng (Coursera)"
+  },
+  "skills": [
+    "data analysis",
+    "git",
+    "github",
+    "javascript",
+    "machine learning",
+    "numpy",
+    "pandas",
+    "python",
+    "scikit-learn",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github",
+      "machine learning"
+    ],
+    "summary": [
+      "data analysis",
+      "javascript",
+      "machine learning",
+      "python"
+    ],
+    "education": [
+      "machine learning"
+    ],
+    "skills": [
+      "git",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ],
+    "projects": [
+      "pandas",
+      "scikit-learn"
+    ],
+    "certifications": [
+      "machine learning"
+    ]
+  }
+}

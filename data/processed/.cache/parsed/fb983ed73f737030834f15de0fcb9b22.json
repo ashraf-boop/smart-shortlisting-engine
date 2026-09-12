@@ -1,0 +1,62 @@
+{
+  "filename": "Resume_13_Sanjay_Patil.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Sanjay Patil\nsanjay.patil.dev@gmail.com | +91 98xxxxxx13 | github.com/sanjaypatil | Pune\nSUMMARY\nBackend-leaning developer skilled in Java and Spring Boot with working knowledge of plain JavaScript, HTML, and\nCSS. No experience with modern frontend frameworks like React or Angular.\nEDUCATION\nB.E. Information Technology, College of Engineering Pune (2023-2027), CGPA: 8.0/10\nSKILLS\nJava, Spring Boot, Spring Data JPA, MySQL, PostgreSQL, REST APIs, HTML5, CSS3, vanilla JavaScript, Git\nPROJECTS\nOnline Bookstore\n•\nSpring Boot REST API backend with PostgreSQL, server-rendered pages using Thymeleaf\n•\nBasic JavaScript used for form validation and simple interactivity\nEmployee Management System\n•\nJava Spring Boot application with MySQL, RESTful endpoints tested with Postman\nCERTIFICATIONS\nSpring Framework Fundamentals (Udemy)",
+  "clean_text": "sanjay patil sanjay.patil.dev@gmail.com | +91 98xxxxxx13 | github .com/sanjaypatil | pune summary backend-leaning developer skilled in java and __PHRASE_ spring boot _boot__ with working knowledge of plain javascript , html , and css . no experience with modern frontend frameworks like react or angular . education b.e. information technology, college of engineering pune (2023-2027), cgpa: 8.0/10 skills java , __PHRASE_ spring boot _boot__ , spring boot data jpa, mysql , postgresql , rest api , html5, css3, vanilla javascript , git projects online bookstore • __PHRASE_ spring boot _boot__ rest api backend with postgresql , server-rendered pages using thymeleaf • basic javascript used for form validation and simple interactivity employee management system • java __PHRASE_ spring boot _boot__ application with mysql , restful endpoints tested with postman certifications spring boot framework fundamentals (udemy)",
+  "sections": {
+    "body": "Sanjay Patil\nsanjay.patil.dev@gmail.com | +91 98xxxxxx13 | github.com/sanjaypatil | Pune",
+    "summary": "Backend-leaning developer skilled in Java and Spring Boot with working knowledge of plain JavaScript, HTML, and\nCSS. No experience with modern frontend frameworks like React or Angular.",
+    "education": "B.E. Information Technology, College of Engineering Pune (2023-2027), CGPA: 8.0/10",
+    "skills": "Java, Spring Boot, Spring Data JPA, MySQL, PostgreSQL, REST APIs, HTML5, CSS3, vanilla JavaScript, Git",
+    "projects": "Online Bookstore\n•\nSpring Boot REST API backend with PostgreSQL, server-rendered pages using Thymeleaf\n•\nBasic JavaScript used for form validation and simple interactivity\nEmployee Management System\n•\nJava Spring Boot application with MySQL, RESTful endpoints tested with Postman",
+    "certifications": "Spring Framework Fundamentals (Udemy)"
+  },
+  "skills": [
+    "angular",
+    "css",
+    "git",
+    "github",
+    "html",
+    "java",
+    "javascript",
+    "mysql",
+    "postgresql",
+    "react",
+    "rest api",
+    "spring boot"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "angular",
+      "css",
+      "html",
+      "java",
+      "javascript",
+      "react",
+      "spring boot"
+    ],
+    "skills": [
+      "git",
+      "java",
+      "javascript",
+      "mysql",
+      "postgresql",
+      "rest api",
+      "spring boot"
+    ],
+    "projects": [
+      "java",
+      "javascript",
+      "mysql",
+      "postgresql",
+      "rest api",
+      "spring boot"
+    ],
+    "certifications": [
+      "spring boot"
+    ]
+  }
+}

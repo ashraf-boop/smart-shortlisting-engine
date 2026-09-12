@@ -1,0 +1,47 @@
+{
+  "filename": "Job Description.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "Here is a tailored Job Description: Junior AI / Machine Learning Developer designed to match the skill spectrum across these candidate resumes. It strikes an ideal balance: high-match candidates like Rohan Mehta will achieve high scores, while entry-level candidates like Priya Iyer will map as partial/medium matches.\nSave the text below as a file (e.g., data/raw/AI_Dev_JD.txt or convert it to .pdf/.docx) to test your hybrid ranker and analytics engine:\nJob Description: Junior AI / Machine Learning Developer\nCompany: TechNova Analytics\nLocation: Bengaluru / Remote\nAbout the Role:\nTechNova Analytics is looking for an entry-to-mid level AI / Machine Learning Developer to build and optimize NLP, RAG, and computer vision pipelines. In this role, you will work across the full ML lifecycle—from data ingestion and preprocessing to model fine-tuning, retrieval-augmented generation (RAG), and containerized API deployment.\nKey Responsibilities:\nPreprocess and clean structured/unstructured datasets for training and evaluation pipelines.\nDevelop and fine-tune NLP, transformer, and computer vision models for classification, summarization, or object detection.\nBuild and deploy Retrieval-Augmented Generation (RAG) applications using vector databases, LangChain, or Hugging Face.\nContainerize ML inference models using Docker and serve predictions via modern REST APIs (FastAPI/Flask).\nCollaborate with engineering teams to monitor, benchmark, and evaluate model performance metrics.\nRequired Technical Skills:\nProgramming Languages: Python, SQL, C++\nML/DL Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers\nNLP & LLM Tech: RAG Pipelines, LangChain, Embeddings, Vector Databases (FAISS, Pinecone)\nComputer Vision & Tools: OpenCV, CNNs, Pandas, NumPy\nDeployment & Tools: Docker, Git, FastAPI, REST APIs\nQualifications & Requirements:\nBachelor’s degree in Computer Science, Information Technology, or a related quantitative field.\nHands-on experience building applied ML projects or RAG/NLP prototypes.\nComfortable working across data preparation, feature extraction, and basic model deployment workflows.",
+  "clean_text": "here is a tailored job description: junior ai / machine learning developer designed to match the skill spectrum across these candidate resumes. it strikes an ideal balance: high-match candidates like rohan mehta will achieve high scores, while entry-level candidates like priya iyer will map as partial/medium matches. save the text below as a file (e.g., data/raw/ai_dev_jd.txt or convert it to .pdf/.docx) to test your hybrid ranker and analytics engine: job description: junior ai / machine learning developer company: technova analytics location: bengaluru / remote about the role: technova analytics is looking for an entry-to-mid level ai / machine learning developer to build and optimize nlp , rag, and computer vision pipelines. in this role, you will work across the full machine learning lifecycle—from data ingestion and preprocessing to model fine-tuning, retrieval-augmented generation (rag), and containerized api deployment. key responsibilities: preprocess and clean structured/unstructured datasets for training and evaluation pipelines. develop and fine-tune nlp , transformer, and computer vision models for classification, summarization, or object detection. build and deploy retrieval-augmented generation (rag) applications using vector databases, langchain, or hugging face. containerize machine learning inference models using docker and serve predictions via modern rest api ( fastapi / flask ). collaborate with engineering teams to monitor, benchmark, and evaluate model performance metrics. required technical skills: programming languages: python , sql , c# machine learning / deep learning frameworks: pytorch , tensorflow , scikit-learn , hugging face transformers nlp & llm tech: rag pipelines, langchain, embeddings, vector databases (faiss, pinecone) computer vision & tools: opencv, cnns, pandas , numpy deployment & tools: docker , git , fastapi , rest api qualifications & requirements: bachelor’s degree in computer science, information technology, or a related quantitative field. hands-on experience building applied machine learning projects or rag/ nlp prototypes. comfortable working across data preparation, feature extraction, and basic model deployment workflows.",
+  "sections": {
+    "body": "Here is a tailored Job Description: Junior AI / Machine Learning Developer designed to match the skill spectrum across these candidate resumes. It strikes an ideal balance: high-match candidates like Rohan Mehta will achieve high scores, while entry-level candidates like Priya Iyer will map as partial/medium matches.\nSave the text below as a file (e.g., data/raw/AI_Dev_JD.txt or convert it to .pdf/.docx) to test your hybrid ranker and analytics engine:\nJob Description: Junior AI / Machine Learning Developer\nCompany: TechNova Analytics\nLocation: Bengaluru / Remote\nAbout the Role:\nTechNova Analytics is looking for an entry-to-mid level AI / Machine Learning Developer to build and optimize NLP, RAG, and computer vision pipelines. In this role, you will work across the full ML lifecycle—from data ingestion and preprocessing to model fine-tuning, retrieval-augmented generation (RAG), and containerized API deployment.\nKey Responsibilities:\nPreprocess and clean structured/unstructured datasets for training and evaluation pipelines.\nDevelop and fine-tune NLP, transformer, and computer vision models for classification, summarization, or object detection.\nBuild and deploy Retrieval-Augmented Generation (RAG) applications using vector databases, LangChain, or Hugging Face.\nContainerize ML inference models using Docker and serve predictions via modern REST APIs (FastAPI/Flask).\nCollaborate with engineering teams to monitor, benchmark, and evaluate model performance metrics.\nRequired Technical Skills:\nProgramming Languages: Python, SQL, C++\nML/DL Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers\nNLP & LLM Tech: RAG Pipelines, LangChain, Embeddings, Vector Databases (FAISS, Pinecone)\nComputer Vision & Tools: OpenCV, CNNs, Pandas, NumPy\nDeployment & Tools: Docker, Git, FastAPI, REST APIs\nQualifications & Requirements:\nBachelor’s degree in Computer Science, Information Technology, or a related quantitative field.\nHands-on experience building applied ML projects or RAG/NLP prototypes.\nComfortable working across data preparation, feature extraction, and basic model deployment workflows."
+  },
+  "skills": [
+    "c#",
+    "deep learning",
+    "docker",
+    "fastapi",
+    "flask",
+    "git",
+    "machine learning",
+    "nlp",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "rest api",
+    "scikit-learn",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "c#",
+      "deep learning",
+      "docker",
+      "fastapi",
+      "flask",
+      "git",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "rest api",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ]
+  }
+}

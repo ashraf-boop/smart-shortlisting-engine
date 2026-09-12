@@ -1,0 +1,44 @@
+{
+  "filename": "AI_Dev_B.docx",
+  "extraction_method": "python-docx",
+  "raw_text": "PRIYA IYER\nChennai, India | priya.iyer97@gmail.com | +91 91234 56780\nlinkedin.com/in/priyaiyer | github.com/priyaiyer\nProfile Summary\nB.Tech graduate interested in applied machine learning and data-driven products. Comfortable working across the ML lifecycle, from cleaning data to evaluating model performance.\nSkills\nLanguages: Python, SQL\nML/DL: Scikit-learn, TensorFlow, Pandas, NumPy\nExperience\nData & AI Intern — Loopwave Technologies\nJan 2025 – Mar 2025 | Chennai\nCleaned and prepared customer feedback data for a sentiment analysis model used by the product team.\nTrained a basic sentiment classifier and presented findings to a small internal stakeholder group.\nCreated a Streamlit dashboard to let non-technical teammates explore model outputs.\nProjects\nMovie Recommendation Mini-Project\nBuilt a content-based movie recommender using cosine similarity on a public dataset, as a personal learning project.\nWrote a short blog post explaining the approach, shared with a small number of peers.\nEducation\nB.Tech Information Technology\nSSN College of Engineering, Chennai | 2021 – 2025 | CGPA: 7.5/10\nCertifications\nIBM Python for Data Science (Coursera)",
+  "clean_text": "priya iyer chennai, india | priya.iyer97@gmail.com | +91 91234 56780 linkedin.com/in/priyaiyer | github .com/priyaiyer profile summary b.tech graduate interested in applied machine learning and data-driven products. comfortable working across the machine learning lifecycle, from cleaning data to evaluating model performance. skills languages: python , sql machine learning / deep learning : scikit-learn , tensorflow , pandas , numpy experience data & ai intern — loopwave technologies jan 2025 – mar 2025 | chennai cleaned and prepared customer feedback data for a sentiment analysis model used by the product team. trained a basic sentiment classifier and presented findings to a small internal stakeholder group. created a streamlit dashboard to let non-technical teammates explore model outputs. projects movie recommendation mini-project built a content-based movie recommender using cosine similarity on a public dataset, as a personal learning project. wrote a short blog post explaining the approach, shared with a small number of peers. education b.tech information technology ssn college of engineering, chennai | 2021 – 2025 | cgpa: 7.5/10 certifications ibm python for data science (coursera)",
+  "sections": {
+    "body": "PRIYA IYER\nChennai, India | priya.iyer97@gmail.com | +91 91234 56780\nlinkedin.com/in/priyaiyer | github.com/priyaiyer\nProfile Summary\nB.Tech graduate interested in applied machine learning and data-driven products. Comfortable working across the ML lifecycle, from cleaning data to evaluating model performance.",
+    "skills": "Languages: Python, SQL\nML/DL: Scikit-learn, TensorFlow, Pandas, NumPy",
+    "experience": "Data & AI Intern — Loopwave Technologies\nJan 2025 – Mar 2025 | Chennai\nCleaned and prepared customer feedback data for a sentiment analysis model used by the product team.\nTrained a basic sentiment classifier and presented findings to a small internal stakeholder group.\nCreated a Streamlit dashboard to let non-technical teammates explore model outputs.",
+    "projects": "Movie Recommendation Mini-Project\nBuilt a content-based movie recommender using cosine similarity on a public dataset, as a personal learning project.\nWrote a short blog post explaining the approach, shared with a small number of peers.",
+    "education": "B.Tech Information Technology\nSSN College of Engineering, Chennai | 2021 – 2025 | CGPA: 7.5/10",
+    "certifications": "IBM Python for Data Science (Coursera)"
+  },
+  "skills": [
+    "deep learning",
+    "github",
+    "machine learning",
+    "numpy",
+    "pandas",
+    "python",
+    "scikit-learn",
+    "sql",
+    "tensorflow"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github",
+      "machine learning"
+    ],
+    "skills": [
+      "deep learning",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ],
+    "certifications": [
+      "python"
+    ]
+  }
+}

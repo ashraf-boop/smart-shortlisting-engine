@@ -1,0 +1,57 @@
+{
+  "filename": "Resume_03_Karthik_Iyer.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Karthik Iyer\nkarthik.iyer.dev@gmail.com | +91 98xxxxxx03 | github.com/kiyer | Chennai\nSUMMARY\nBackend-focused developer with strong Java and Spring Boot fundamentals. Some exposure to frontend basics\nthrough college coursework but limited hands-on React experience.\nEDUCATION\nB.E. Computer Science, PES University (2023-2027), CGPA: 8.2/10\nSKILLS\nJava, Spring Boot, Hibernate, MySQL, REST APIs, HTML/CSS, basic JavaScript, Git, Postman, Maven\nPROJECTS\nLibrary Management System\n•\nBuilt a REST API backend in Spring Boot with MySQL for a college library system\n•\nBasic HTML/CSS frontend to consume the APIs; no frontend framework used\nStudent Attendance Tracker\n•\nJava console-based application with MySQL database integration\nCERTIFICATIONS\nJava Programming Masterclass (Udemy)",
+  "clean_text": "karthik iyer karthik.iyer.dev@gmail.com | +91 98xxxxxx03 | github .com/kiyer | chennai summary backend-focused developer with strong java and __PHRASE_ spring boot _boot__ fundamentals. some exposure to frontend basics through college coursework but limited hands-on react experience. education b.e. computer science, pes university (2023-2027), cgpa: 8.2/10 skills java , __PHRASE_ spring boot _boot__ , hibernate, mysql , rest api , html / css , basic javascript , git , postman, maven projects library management system • built a rest api backend in __PHRASE_ spring boot _boot__ with mysql for a college library system • basic html / css frontend to consume the apis; no frontend framework used student attendance tracker • java console-based application with mysql database integration certifications java programming masterclass (udemy)",
+  "sections": {
+    "body": "Karthik Iyer\nkarthik.iyer.dev@gmail.com | +91 98xxxxxx03 | github.com/kiyer | Chennai",
+    "summary": "Backend-focused developer with strong Java and Spring Boot fundamentals. Some exposure to frontend basics\nthrough college coursework but limited hands-on React experience.",
+    "education": "B.E. Computer Science, PES University (2023-2027), CGPA: 8.2/10",
+    "skills": "Java, Spring Boot, Hibernate, MySQL, REST APIs, HTML/CSS, basic JavaScript, Git, Postman, Maven",
+    "projects": "Library Management System\n•\nBuilt a REST API backend in Spring Boot with MySQL for a college library system\n•\nBasic HTML/CSS frontend to consume the APIs; no frontend framework used\nStudent Attendance Tracker\n•\nJava console-based application with MySQL database integration",
+    "certifications": "Java Programming Masterclass (Udemy)"
+  },
+  "skills": [
+    "css",
+    "git",
+    "github",
+    "html",
+    "java",
+    "javascript",
+    "mysql",
+    "react",
+    "rest api",
+    "spring boot"
+  ],
+  "skills_by_section": {
+    "body": [
+      "github"
+    ],
+    "summary": [
+      "java",
+      "react",
+      "spring boot"
+    ],
+    "skills": [
+      "css",
+      "git",
+      "html",
+      "java",
+      "javascript",
+      "mysql",
+      "rest api",
+      "spring boot"
+    ],
+    "projects": [
+      "css",
+      "html",
+      "java",
+      "mysql",
+      "rest api",
+      "spring boot"
+    ],
+    "certifications": [
+      "java"
+    ]
+  }
+}

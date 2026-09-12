@@ -1,0 +1,27 @@
+{
+  "filename": "Resume_14_Ramya_Nagaraj.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Ramya Nagaraj\nramya.nagaraj.ece@gmail.com | +91 98xxxxxx14 | Bengaluru\nSUMMARY\nElectronics and Communication Engineering student with a background in embedded systems and hardware\nprogramming. Minimal exposure to web development.\nEDUCATION\nB.E. Electronics and Communication Engineering, BMS College of Engineering (2023-2027), CGPA: 8.0/10\nSKILLS\nEmbedded C, Arduino, Raspberry Pi, basic Python, MATLAB, circuit design (KiCad), basic HTML\nPROJECTS\nSmart Irrigation System\n•\nBuilt an IoT-based irrigation controller using Arduino, embedded C, and soil moisture sensors\nHome Automation Prototype\n•\nRaspberry Pi based home automation system with basic Python scripts controlling relays\nCERTIFICATIONS\nEmbedded Systems with Arduino (Udemy)",
+  "clean_text": "ramya nagaraj ramya.nagaraj.ece@gmail.com | +91 98xxxxxx14 | bengaluru summary electronics and communication engineering student with a background in embedded systems and hardware programming. minimal exposure to web development. education b.e. electronics and communication engineering, bms college of engineering (2023-2027), cgpa: 8.0/10 skills embedded c, arduino, raspberry pi, basic python , matlab, circuit design (kicad), basic html projects smart irrigation system • built an iot-based irrigation controller using arduino, embedded c, and soil moisture sensors home automation prototype • raspberry pi based home automation system with basic python scripts controlling relays certifications embedded systems with arduino (udemy)",
+  "sections": {
+    "body": "Ramya Nagaraj\nramya.nagaraj.ece@gmail.com | +91 98xxxxxx14 | Bengaluru",
+    "summary": "Electronics and Communication Engineering student with a background in embedded systems and hardware\nprogramming. Minimal exposure to web development.",
+    "education": "B.E. Electronics and Communication Engineering, BMS College of Engineering (2023-2027), CGPA: 8.0/10",
+    "skills": "Embedded C, Arduino, Raspberry Pi, basic Python, MATLAB, circuit design (KiCad), basic HTML",
+    "projects": "Smart Irrigation System\n•\nBuilt an IoT-based irrigation controller using Arduino, embedded C, and soil moisture sensors\nHome Automation Prototype\n•\nRaspberry Pi based home automation system with basic Python scripts controlling relays",
+    "certifications": "Embedded Systems with Arduino (Udemy)"
+  },
+  "skills": [
+    "html",
+    "python"
+  ],
+  "skills_by_section": {
+    "skills": [
+      "html",
+      "python"
+    ],
+    "projects": [
+      "python"
+    ]
+  }
+}

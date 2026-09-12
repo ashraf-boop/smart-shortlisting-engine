@@ -1,0 +1,62 @@
+{
+  "filename": "Resume_02_Rohan_Verma.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Rohan Verma\nrohan.verma98@gmail.com | +91 98xxxxxx02 | linkedin.com/in/rohanverma | Mysuru\nSUMMARY\nFull stack developer with a strong portfolio of deployed React/Node projects and active hackathon participation.\nComfortable working across the stack from database design to UI polish.\nEDUCATION\nB.Tech Information Technology, Manipal Institute of Technology (2023-2027), CGPA: 8.9/10\nSKILLS\nReact.js, Next.js, Node.js, Express, PostgreSQL, MongoDB, TypeScript, REST APIs, Docker (basic), Git, Postman,\nFigma (basic)\nEXPERIENCE\nFreelance Web Developer (2025-Present)\n•\nDelivered 3 small business websites with React frontends and Node/Express backends\n•\nSet up PostgreSQL schemas and REST APIs for client inventory management systems\nPROJECTS\nEventHive - College Event Management Platform\n•\nBuilt with Next.js, Express, and PostgreSQL; supports event registration and QR-based check-in\n•\nWon 2nd place at a regional inter-college hackathon (2026)\nExpense Tracker API\n•\nDesigned REST APIs in Node.js/Express with JWT auth; documented with Swagger\nCERTIFICATIONS\nThe Complete Node.js Developer Course (Udemy)",
+  "clean_text": "rohan verma rohan.verma98@gmail.com | +91 98xxxxxx02 | linkedin.com/in/rohanverma | mysuru summary full stack developer with a strong portfolio of deployed react /node projects and active hackathon participation. comfortable working across the stack from database design to ui polish. education b.tech information technology, manipal institute of technology (2023-2027), cgpa: 8.9/10 skills react . javascript , next.js , node.js , express , postgresql , mongodb , typescript , rest api , docker (basic), git , postman, figma (basic) experience freelance web developer (2025-present) • delivered 3 small business websites with react frontends and node/ express backends • set up postgresql schemas and rest api for client inventory management systems projects eventhive - college event management platform • built with next.js , express , and postgresql ; supports event registration and qr-based check-in • won 2nd place at a regional inter-college hackathon (2026) expense tracker api • designed rest api in node.js / express with jwt auth; documented with swagger certifications the complete node.js developer course (udemy)",
+  "sections": {
+    "body": "Rohan Verma\nrohan.verma98@gmail.com | +91 98xxxxxx02 | linkedin.com/in/rohanverma | Mysuru",
+    "summary": "Full stack developer with a strong portfolio of deployed React/Node projects and active hackathon participation.\nComfortable working across the stack from database design to UI polish.",
+    "education": "B.Tech Information Technology, Manipal Institute of Technology (2023-2027), CGPA: 8.9/10",
+    "skills": "React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB, TypeScript, REST APIs, Docker (basic), Git, Postman,\nFigma (basic)",
+    "experience": "Freelance Web Developer (2025-Present)\n•\nDelivered 3 small business websites with React frontends and Node/Express backends\n•\nSet up PostgreSQL schemas and REST APIs for client inventory management systems",
+    "projects": "EventHive - College Event Management Platform\n•\nBuilt with Next.js, Express, and PostgreSQL; supports event registration and QR-based check-in\n•\nWon 2nd place at a regional inter-college hackathon (2026)\nExpense Tracker API\n•\nDesigned REST APIs in Node.js/Express with JWT auth; documented with Swagger",
+    "certifications": "The Complete Node.js Developer Course (Udemy)"
+  },
+  "skills": [
+    "docker",
+    "express",
+    "git",
+    "javascript",
+    "mongodb",
+    "next.js",
+    "node.js",
+    "postgresql",
+    "react",
+    "rest api",
+    "typescript"
+  ],
+  "skills_by_section": {
+    "summary": [
+      "react"
+    ],
+    "skills": [
+      "docker",
+      "express",
+      "git",
+      "javascript",
+      "mongodb",
+      "next.js",
+      "node.js",
+      "postgresql",
+      "react",
+      "rest api",
+      "typescript"
+    ],
+    "experience": [
+      "express",
+      "postgresql",
+      "react",
+      "rest api"
+    ],
+    "projects": [
+      "express",
+      "next.js",
+      "node.js",
+      "postgresql",
+      "rest api"
+    ],
+    "certifications": [
+      "node.js"
+    ]
+  }
+}

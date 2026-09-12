@@ -1,0 +1,23 @@
+{
+  "filename": "Resume_07_Mohammed_Faizan.pdf",
+  "extraction_method": "pymupdf",
+  "raw_text": "Mohammed Faizan\nfaizan.mech@gmail.com | +91 98xxxxxx07 | Bengaluru\nSUMMARY\nMechanical Engineering student with basic programming exposure through core coursework. Interested in\ntransitioning toward software roles but has limited web development experience.\nEDUCATION\nB.E. Mechanical Engineering, BMS College of Engineering (2023-2027), CGPA: 7.6/10\nSKILLS\nC programming, MATLAB, AutoCAD, basic Python, Excel, basic HTML\nPROJECTS\nAutomated Attendance using RFID\n•\nBuilt a hardware-software prototype using Arduino and basic C for RFID-based attendance\nSimple Calculator (C)\n•\nConsole-based calculator application written in C as part of coursework",
+  "clean_text": "mohammed faizan faizan.mech@gmail.com | +91 98xxxxxx07 | bengaluru summary mechanical engineering student with basic programming exposure through core coursework. interested in transitioning toward software roles but has limited web development experience. education b.e. mechanical engineering, bms college of engineering (2023-2027), cgpa: 7.6/10 skills c programming, matlab, autocad, basic python , excel, basic html projects automated attendance using rfid • built a hardware-software prototype using arduino and basic c for rfid-based attendance simple calculator (c) • console-based calculator application written in c as part of coursework",
+  "sections": {
+    "body": "Mohammed Faizan\nfaizan.mech@gmail.com | +91 98xxxxxx07 | Bengaluru",
+    "summary": "Mechanical Engineering student with basic programming exposure through core coursework. Interested in\ntransitioning toward software roles but has limited web development experience.",
+    "education": "B.E. Mechanical Engineering, BMS College of Engineering (2023-2027), CGPA: 7.6/10",
+    "skills": "C programming, MATLAB, AutoCAD, basic Python, Excel, basic HTML",
+    "projects": "Automated Attendance using RFID\n•\nBuilt a hardware-software prototype using Arduino and basic C for RFID-based attendance\nSimple Calculator (C)\n•\nConsole-based calculator application written in C as part of coursework"
+  },
+  "skills": [
+    "html",
+    "python"
+  ],
+  "skills_by_section": {
+    "skills": [
+      "html",
+      "python"
+    ]
+  }
+}
