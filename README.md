@@ -57,7 +57,7 @@ resume-match-checker/
 
 ```powershell
 # Windows (PowerShell)
-git clone https://github.com/your-username/resume-match-checker.git
+git clone https://github.com/ashraf-boop/resume-match-checker.git
 cd resume-match-checker
 
 python -m venv venv
