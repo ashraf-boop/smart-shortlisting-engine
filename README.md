@@ -1,8 +1,16 @@
 # Resume Match Checker
 
-An offline, privacy-first, high-capacity resume screening tool built with Streamlit, Plotly, PyMuPDF, and SentenceTransformers.
+> An offline, privacy-first, high-capacity resume screening tool built with Streamlit, Plotly, PyMuPDF, and SentenceTransformers.
 
-Built for hackathons and recruiting workflows, this application takes a batch of resumes and a job description, scores each candidate using a multi-metric hybrid ranking approach, checks the job description for biased or overly rigid wording, and shows clear, plain-language explanations and visual breakdowns for every match.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
+[![Offline](https://img.shields.io/badge/LLM-None%20required-brightgreen)]()
+
+Built for hackathons and recruiting workflows, this application takes a batch of resumes and a job description, scores each candidate using a multi-metric hybrid ranking approach, checks the job description for biased or overly rigid wording, and shows clear, plain-language explanations and visual breakdowns for every match — all running locally, with no data ever leaving your machine.
+
+## Why this exists
+
+Most ATS tools fall into one of two traps: legacy keyword-matching systems that penalize good candidates for phrasing things differently, or cloud-based LLM tools that introduce API cost, latency, and privacy risk from sending candidate PII to a third party. Resume Match Checker takes a third path — a hybrid, fully local scoring engine that's fast, explainable, and never sends a single byte off your machine.
 
 ## Key Features
 
@@ -64,21 +72,30 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
+```bash
+# macOS / Linux
+git clone https://github.com/ashraf-boop/resume-match-checker.git
+cd resume-match-checker
+
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ### 2. Install dependencies
 
-```powershell
+```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Generate a sample job description PDF (optional)
 
-```powershell
+```bash
 python make_jd.py
 ```
 
 ### 4. Launch the application
 
-```powershell
+```bash
 streamlit run app.py
 ```
 
@@ -89,3 +106,30 @@ streamlit run app.py
 3. **Choose which resumes to include** — use the filename search or file-type filter to select or deselect resumes in the grid.
 4. **Choose a weighting strategy** — leave "Auto-recommended" on in the sidebar, or switch to manual sliders to set your own weighting.
 5. **Check the resumes** — click "Check resumes against the job description" to see the results, head-to-head comparisons, visual breakdowns, and individual reviews.
+
+## How Scoring Works
+
+Each candidate's Overall Match is a weighted combination of three independent signals:
+
+```
+S_final = w1 * S_tfidf + w2 * S_jaccard + w3 * S_semantic
+```
+
+where `w1 + w2 + w3 = 1.0`. When "Auto-recommended" weighting is on, the app measures the job description's skill density (recognized technical skills as a share of total words) and shifts the weights accordingly — favoring **Skill Coverage** for tool-heavy postings, and **Context Match** for more conceptual, narrative-style postings.
+
+## Roadmap
+
+- [ ] Export ranked results and comparison reports to PDF/CSV
+- [ ] Support additional resume formats (e.g., LinkedIn PDF exports)
+- [ ] Configurable skill taxonomy per industry
+- [ ] Optional multi-language resume support
+
+## Contributing
+
+Issues and pull requests are welcome. If you're proposing a larger change, please open an issue first to discuss what you'd like to change.
+
+
+## Author
+
+**Shaik Abdul Ashraf**
+[GitHub](https://github.com/ashraf-boop) · [LinkedIn](https://www.linkedin.com/in/shaik-abdul-ashraf/)
