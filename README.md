@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
 [![Offline](https://img.shields.io/badge/LLM-None%20required-brightgreen)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 Built for hackathons and recruiting workflows, this application takes a batch of resumes and a job description, scores each candidate using a multi-metric hybrid ranking approach, checks the job description for biased or overly rigid wording, and shows clear, plain-language explanations and visual breakdowns for every match — all running locally, with no data ever leaving your machine.
 
@@ -128,10 +127,6 @@ where `w1 + w2 + w3 = 1.0`. When "Auto-recommended" weighting is on, the app mea
 ## Contributing
 
 Issues and pull requests are welcome. If you're proposing a larger change, please open an issue first to discuss what you'd like to change.
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
